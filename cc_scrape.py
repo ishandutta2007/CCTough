@@ -127,14 +127,14 @@ def get_editorial_links_for(code):
             if url is None:
                 continue
             print("url", url)
+            if "http" in url and "codechef" in url:
+                continue
+            if "http" in url and "discourse" in url:
+                continue
             if "download/Solutions" in url:
                 sol_urls.append(url)
-            elif ("external-redirect" in url) or (
-                "http" in url and "codechef" not in url and "discourse.org" not in url 
-            ):
-                ext_urls.append(
-                    url.replace("/external-redirect/", "").replace("?url=", "")
-                )
+            elif "external-redirect" in url:
+                ext_urls.append(url.replace("/external-redirect/?url=", ""))
     except Exception as e:
         print(e)
         raise e
@@ -145,21 +145,34 @@ READMEstr = "README.md"
 
 
 years = [
-    # "09",
-    # "10",
-    # "11",
-    # "12",
-    # "13",
-    # "14",
-    # "15",
+    "09",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
     "16",
-    # "17",
-    # "18",
-    # "19",
-    # "20",
-    # "21",
-    # "22",
+    "17",
+    "18",
+    "18A",
+    "18B",
+    "19A",
+    "19B",
+    "20A",
+    "20B",
+    "21A",
+    "21B",
+    "221A",
+    "221B",
+    "221C",
+    "221D",
+    "222A",
+    "222B",
+    "222C",
+    "222D",
 ]
+
 
 months = [
     "JAN",
