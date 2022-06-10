@@ -964,7 +964,8 @@ JavaScript error: https://discuss.codechef.com/theme-javascripts/74dc282f6a48e1c
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://discuss.codechef.com"
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://discuss.codechef.com"
 JavaScript warning: https://pagead2.googlesyndication.com/bg/fitY9DN5Eb8XnEderF92e3R8KkCh_qe_gU10Y1cTXMc.js line 2 > eval line 6974 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-1654840749463	geckodriver	INFO	Listening on 127.0.0.1:49810
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:49810
 1654840752482	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofile3NQ13n"
 1654840752818	Marionette	INFO	Marionette enabled
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofile3NQ13n\\search.json.mozlz4", (void 0)))
@@ -979,3 +980,14 @@ JavaScript error: https://discuss.codechef.com/theme-javascripts/74dc282f6a48e1c
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://discuss.codechef.com"
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://discuss.codechef.com"
 JavaScript warning: https://pagead2.googlesyndication.com/bg/fitY9DN5Eb8XnEderF92e3R8KkCh_qe_gU10Y1cTXMc.js line 2 > eval line 603 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1654841658929	Marionette	INFO	Stopped listening on port 49835
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lo

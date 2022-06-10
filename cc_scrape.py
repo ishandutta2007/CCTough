@@ -50,9 +50,9 @@ import urllib.request
 INFINITY = 100000000
 
 
-def get_toughest_problem_code(driver, mnth="APRIL16"):
+def get_toughest_problem_code(driver, monthyear="APRIL16"):
     try:
-        url = "https://www.codechef.com/{}".format(mnth)
+        url = "https://www.codechef.com/{}".format(monthyear)
         driver.get(url)
         html = driver.page_source
         soup = bs.BeautifulSoup(html)
@@ -113,50 +113,70 @@ def get_editorial_links(code):
 
 
 driver = webdriver.Firefox()
-editorial_links = []
-mnth = "APRIL16"
-try:
-    tpc = get_toughest_problem_code(driver, mnth)
-    sol_urls, ext_urls = get_editorial_links(tpc)
-    sol_urls = list(set(sol_urls))
-    ext_urls = list(set(ext_urls))
-    pp.pprint(sol_urls)
-    pp.pprint(ext_urls)
+months = [
+    # "JAN",
+    # "FEB",
+    # "MARCH",
+    # "APRIL",
+    # "MAY",
+    # "JUNE",
+    # "JULY",
+    # "AUG",
+    # "SEPT",
+    # "OCT",
+    "NOV",
+    "DEC",
+]
 
-    problem_url = "https://www.codechef.com/{}/{}".format(mnth, tpc)
-    editorial_url = "https://discuss.codechef.com/t/{}-editorial/".format(tpc.lower())
-
-    with open("README.md", "a") as fw:
-        fw.write("\n")
-
-    with open("README.md", "a") as fw:
-        fw.write("## " + mnth + "\n")
-
-    with open("README.md", "a") as fw:
-        fw.write("### " + tpc + "\n")
-
-    with open("README.md", "a") as fw:
-        fw.write(problem_url + "\n")
-        fw.write("\n")
-
-    with open("README.md", "a") as fw:
-        fw.write(editorial_url + "\n")
-        fw.write("\n")
-        fw.write("\n")
-
+for month in months:
     try:
-        with open("README.md", "a") as fw:
-            fw.write("\n".join(sol_urls) + "\n")
-            fw.write("\n")
-    except Exception as e:
-        pass
+        editorial_links = []
+        monthyear = month + "16"
+        tpc = get_toughest_problem_code(driver, monthyear)
+        sol_urls, ext_urls = get_editorial_links(tpc)
+        sol_urls = list(set(sol_urls))
+        ext_urls = list(set(ext_urls))
+        pp.pprint(sol_urls)
+        pp.pprint(ext_urls)
 
-    try:
-        with open("README.md", "a") as fw:
-            fw.write("\n".join(ext_urls) + "\n")
-            fw.write("\n")
-    except Exception as e:
-        pass
+        problem_url = "https://www.codechef.com/{}/{}".format(monthyear, tpc)
+        editorial_url = "https://discuss.codechef.com/t/{}-editorial/".format(
+            tpc.lower()
+        )
 
-except Exception as e:
-    driver.close()
+        with open("README.md", "a") as fw:
+            fw.write("\n")
+
+        with open("README.md", "a") as fw:
+            fw.write("## " + monthyear + "\n")
+
+        with open("README.md", "a") as fw:
+            fw.write("### " + tpc + "\n")
+
+        with open("README.md", "a") as fw:
+            fw.write(problem_url + "\n")
+            fw.write("\n")
+
+        with open("README.md", "a") as fw:
+            fw.write(editorial_url + "\n")
+            fw.write("\n")
+            fw.write("\n")
+
+        try:
+            with open("README.md", "a") as fw:
+                fw.write("\n".join(sol_urls) + "\n")
+                fw.write("\n")
+        except Exception as e:
+            pass
+
+        try:
+            with open("README.md", "a") as fw:
+                fw.write("\n".join(ext_urls) + "\n")
+                fw.write("\n")
+                fw.write("=================")
+                fw.write("\n")
+        except Exception as e:
+            pass
+
+    except Exception as e:
+        driver.close()
