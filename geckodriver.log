@@ -964,3 +964,18 @@ JavaScript error: https://discuss.codechef.com/theme-javascripts/74dc282f6a48e1c
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://discuss.codechef.com"
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://discuss.codechef.com"
 JavaScript warning: https://pagead2.googlesyndication.com/bg/fitY9DN5Eb8XnEderF92e3R8KkCh_qe_gU10Y1cTXMc.js line 2 > eval line 6974 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1654840749463	geckodriver	INFO	Listening on 127.0.0.1:49810
+1654840752482	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofile3NQ13n"
+1654840752818	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofile3NQ13n\\search.json.mozlz4", (void 0)))
+1654840754508	Marionette	INFO	Listening on port 49835
+Read port: 49835
+1654840754603	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1654840760395	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://discuss.codechef.com/assets/vendor-a9c2c5497dfd479840e382e9f6341ed4.js, line 4632: unreachable code after return statement
+JavaScript error: https://discuss.codechef.com/theme-javascripts/a9a685c2e8e835adf2e6b2494452814920e1414d.js?__ws=discuss.codechef.com, line 90: ReferenceError: Discourse is not defined
+JavaScript error: https://discuss.codechef.com/theme-javascripts/74dc282f6a48e1c9385ea0091e8bbd0ea52c3ebe.js?__ws=discuss.codechef.com, line 2: ReferenceError: Discourse is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://discuss.codechef.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://discuss.codechef.com"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/fitY9DN5Eb8XnEderF92e3R8KkCh_qe_gU10Y1cTXMc.js line 2 > eval line 603 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.

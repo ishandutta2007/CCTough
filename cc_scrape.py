@@ -130,10 +130,10 @@ try:
         fw.write("\n")
 
     with open("README.md", "a") as fw:
-        fw.write("##" + mnth + "\n")
+        fw.write("## " + mnth + "\n")
 
     with open("README.md", "a") as fw:
-        fw.write("###" + tpc + "\n")
+        fw.write("### " + tpc + "\n")
 
     with open("README.md", "a") as fw:
         fw.write(problem_url + "\n")

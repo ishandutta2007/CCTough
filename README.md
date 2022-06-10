@@ -1,7 +1,7 @@
 # CCTough
 
-##APRIL16
-###CHNBGMT
+## APRIL16
+### CHNBGMT
 https://www.codechef.com/APRIL16/CHNBGMT
 
 https://discuss.codechef.com/t/chnbgmt-editorial/
