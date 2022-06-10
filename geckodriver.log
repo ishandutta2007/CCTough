@@ -916,18 +916,51 @@ JavaScript error: https://discuss.codechef.com/theme-javascripts/74dc282f6a48e1c
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://discuss.codechef.com"
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://discuss.codechef.com"
 JavaScript warning: https://pagead2.googlesyndication.com/bg/fitY9DN5Eb8XnEderF92e3R8KkCh_qe_gU10Y1cTXMc.js line 2 > eval line 2615 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-1654840261397	geckodriver	INFO	Listening on 127.0.0.1:49178
-1654840264471	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilePxwqiZ"
-1654840264797	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilePxwqiZ\\search.json.mozlz4", (void 0)))
-1654840266409	Marionette	INFO	Listening on port 49203
-Read port: 49203
-1654840266507	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654840545413	Marionette	INFO	Stopped listening on port 65352
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+hef.com/theme-javascripts/74dc282f6a48e1c9385ea0091e8bbd0ea52c3ebe.js?__ws=discuss.codechef.com, line 2: ReferenceError: Discourse is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://discuss.codechef.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://discuss.codechef.com"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/fitY9DN5Eb8XnEderF92e3R8KkCh_qe_gU10Y1cTXMc.js line 2 > eval line 6863 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1654840546947	Marionette	INFO	Stopped listening on port 49203
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[Parent 17636, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:723
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+ad port: 49465
+1654840464127	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
-1654840274862	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1654840472081	Marionette	INFO	Stopped listening on port 49465
+1654840537992	geckodriver	INFO	Listening on 127.0.0.1:49562
+1654840541065	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofile0sq883"
+1654840541390	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofile0sq883\\search.json.mozlz4", (void 0)))
+1654840543074	Marionette	INFO	Listening on port 49593
+Read port: 49593
+1654840543123	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1654840552547	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
 JavaScript warning: https://discuss.codechef.com/assets/vendor-a9c2c5497dfd479840e382e9f6341ed4.js, line 4632: unreachable code after return statement
 JavaScript error: https://discuss.codechef.com/theme-javascripts/a9a685c2e8e835adf2e6b2494452814920e1414d.js?__ws=discuss.codechef.com, line 90: ReferenceError: Discourse is not defined
 JavaScript error: https://discuss.codechef.com/theme-javascripts/74dc282f6a48e1c9385ea0091e8bbd0ea52c3ebe.js?__ws=discuss.codechef.com, line 2: ReferenceError: Discourse is not defined
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://discuss.codechef.com"
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://discuss.codechef.com"
-JavaScript warning: https://pagead2.googlesyndication.com/bg/fitY9DN5Eb8XnEderF92e3R8KkCh_qe_gU10Y1cTXMc.js line 2 > eval line 6863 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/fitY9DN5Eb8XnEderF92e3R8KkCh_qe_gU10Y1cTXMc.js line 2 > eval line 6974 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
