@@ -51,99 +51,103 @@ INFINITY = 100000000
 
 
 def get_toughest_problem_code(driver, mnth="APRIL16"):
-    url = "https://www.codechef.com/{}".format(mnth)
-    driver.get(url)
-    html = driver.page_source
-    soup = bs.BeautifulSoup(html)
-    tables = soup.find_all("table")
-    table = tables[0]
-    # print(table)
-    # print()
-    probs = [x for x in table.findAll("tr")]
-    # print(probs)
-    mn = INFINITY
-    for i, prob in enumerate(probs):
-        cols = [x.get_text().replace("\n", "").strip() for x in prob.findAll("td")]
-        print(cols)
-        try:
-            u_cnt = int(cols[2])
-            if u_cnt < mn:
-                mn = u_cnt
-                mi = i
-        except Exception as e:
-            pass
-    print(mi, mn)
-    tough_prob = probs[mi]
-    cols = [x.get_text().replace("\n", "").strip() for x in tough_prob.findAll("td")]
-    return cols[1]
+    try:
+        url = "https://www.codechef.com/{}".format(mnth)
+        driver.get(url)
+        html = driver.page_source
+        soup = bs.BeautifulSoup(html)
+        tables = soup.find_all("table")
+        table = tables[0]
+        # print(table)
+        # print()
+        probs = [x for x in table.findAll("tr")]
+        # print(probs)
+        mn = INFINITY
+        for i, prob in enumerate(probs):
+            cols = [x.get_text().replace("\n", "").strip() for x in prob.findAll("td")]
+            # print(cols)
+            try:
+                u_cnt = int(cols[2])
+                if u_cnt < mn:
+                    mn = u_cnt
+                    mi = i
+            except Exception as e:
+                pass
+        # print(mi, mn)
+        tough_prob = probs[mi]
+        cols = [
+            x.get_text().replace("\n", "").strip() for x in tough_prob.findAll("td")
+        ]
+        return cols[1]
+    except Exception as e:
+        raise e
 
 
-def get_editorial(code):
-    url = "https://discuss.codechef.com/t/{}-editorial/".format(code.lower())
-    driver.get(url)
-    html = driver.page_source
-    soup = bs.BeautifulSoup(html)
-    ps = soup.find_all("p")
-    # print(ps)
-    urls = []
-    for p in ps:
-        urls.append(re.findall("https?://(?:[-\w.]|(?:%[\da-fA-F]{2}))+", p.get_text()))
-    return urls
+def get_editorial_links(code):
+    sol_urls = []
+    ext_urls = []
+    try:
+        url = "https://discuss.codechef.com/t/{}-editorial/".format(code.lower())
+        driver.get(url)
+        html = driver.page_source
+        soup = bs.BeautifulSoup(html)
+        urls = []
+
+        for line in soup.find_all("a"):
+            url = line.get("href")
+            if url is None:
+                continue
+            print("url", url)
+            if "download/Solutions" in url:
+                sol_urls.append(url)
+            elif ("external-redirect" in url) or (
+                "http" in url and "codechef" not in url
+            ):
+                ext_urls.append(
+                    url.replace("/external-redirect/", "").replace("?url=", "")
+                )
+    except Exception as e:
+        print(e)
+        raise e
+    return sol_urls, ext_urls
 
 
 driver = webdriver.Firefox()
 editorial_links = []
+mnth = "APRIL16"
 try:
-    tpc = get_toughest_problem_code(driver, "APRIL16")
-    editorial_links = get_editorial(code=tpc)
-    pp.pprint(editorial_links)
+    tpc = get_toughest_problem_code(driver, mnth)
+    sol_urls, ext_urls = get_editorial_links(tpc)
+    pp.pprint(sol_urls)
+    pp.pprint(ext_urls)
 except Exception as e:
     driver.close()
 
+problem_url = "https://www.codechef.com/{}/{}".format(mnth, tpc)
+editorial_url = "https://discuss.codechef.com/t/{}-editorial/".format(tpc.lower())
+
 
 with open("README.md", "a") as fw:
-    fw.write("\n".join(editorial_links) + "\n")
+    fw.write("\n")
 
-# browser = Selenium()
-# playwright = Playwright()
-# # browser.go_to(url)
-# browser.open_available_browser(url)
-# html = browser.page_source
+with open("README.md", "a") as fw:
+    fw.write(problem_url + "\n")
 
+with open("README.md", "a") as fw:
+    fw.write(editorial_url + "\n")
 
-#     text_followers = browser.get_text(
-#         'xpath://*[@id="YouTubeUserTopInfoBlock"]/div[3]/span[2]'
-#     )
-#     print(row[0], "Followers=", text_followers)
-#     count_followers = get_int(text_followers)
+with open("README.md", "a") as fw:
+    fw.write("\n")
+try:
+    with open("README.md", "a") as fw:
+        fw.write("\n".join(sol_urls) + "\n")
+except Exception as e:
+    pass
 
-#     text_followers30 = browser.get_text(
-#         'xpath://*[@id="socialblade-user-content"]/div[7]/div[2]/span'
-#     )
-#     print(row[0], "Followers 30 days=", text_followers30)
-#     followers30 = get_int(text_followers30)
-
-#     text_media30 = browser.get_text(
-#         'xpath://*[@id="socialblade-user-content"]/div[7]/div[4]/span'
-#     )
-#     print(row[0], "Media 30 days=", text_media30)
-#     media30 = get_int(text_media30)
-
-#     if count_followers == followers30:
-#         mom_growth = 0
-#     else:
-#         mom_growth = int(
-#             100 * followers30 / (count_followers - followers30)
-#         )
-#     df_res.loc[idx] = [
-#         row[0],
-#         count_followers,
-#         followers30,
-#         media30,
-#         mom_growth,
-#     ]
-#     total_followers = total_followers + count_followers
-#     total_followers30 = total_followers30 + followers30
-#     total_media30 = total_media30 + media30
-# except Exception as e:
-#     print(e)
+with open("README.md", "a") as fw:
+    fw.write("\n")
+try:
+    with open("README.md", "a") as fw:
+        fw.write("\n".join(ext_urls) + "\n")
+except Exception as e:
+    pass
