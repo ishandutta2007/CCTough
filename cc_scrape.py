@@ -112,6 +112,35 @@ def get_editorial_links(code):
     return sol_urls, ext_urls
 
 
+def get_editorial_links_for(code):
+    sol_urls = []
+    ext_urls = []
+    try:
+        url = "https://discuss.codechef.com/t/editorial-for-{}/".format(code.lower())
+        driver.get(url)
+        html = driver.page_source
+        soup = bs.BeautifulSoup(html)
+        urls = []
+
+        for line in soup.find_all("a"):
+            url = line.get("href")
+            if url is None:
+                continue
+            print("url", url)
+            if "download/Solutions" in url:
+                sol_urls.append(url)
+            elif ("external-redirect" in url) or (
+                "http" in url and "codechef" not in url and "discourse.org" not in url 
+            ):
+                ext_urls.append(
+                    url.replace("/external-redirect/", "").replace("?url=", "")
+                )
+    except Exception as e:
+        print(e)
+        raise e
+    return sol_urls, ext_urls
+
+
 READMEstr = "README.md"
 
 
@@ -135,16 +164,16 @@ years = [
 months = [
     "JAN",
     "FEB",
-    # "MARCH",
-    # "APRIL",
-    # "MAY",
-    # "JUNE",
-    # "JULY",
-    # "AUG",
-    # "SEPT",
-    # "OCT",
-    # "NOV",
-    # "DEC",
+    "MARCH",
+    "APRIL",
+    "MAY",
+    "JUNE",
+    "JULY",
+    "AUG",
+    "SEPT",
+    "OCT",
+    "NOV",
+    "DEC",
 ]
 
 for year in years:
@@ -158,12 +187,16 @@ for year in years:
             monthyear = month + year
             tpc = get_toughest_problem_code(driver, monthyear)
             sol_urls, ext_urls = get_editorial_links(tpc)
+            if len(sol_urls) == 0 and len(ext_urls) == 0:
+                sol_urls, ext_urls = get_editorial_links_for(tpc)
             sol_urls = list(set(sol_urls))
             ext_urls = list(set(ext_urls))
             pp.pprint(sol_urls)
             pp.pprint(ext_urls)
 
-            problem_url = "https://www.codechef.com/{}/{}".format(monthyear, tpc)
+            problem_url = "https://www.codechef.com/{}/problems/{}".format(
+                monthyear, tpc
+            )
             editorial_url = "https://discuss.codechef.com/t/{}-editorial/".format(
                 tpc.lower()
             )

@@ -2,7 +2,7 @@
 
 ## APRIL16
 ### CHNBGMT
-https://www.codechef.com/APRIL16/CHNBGMT
+https://www.codechef.com/APRIL16/problems/CHNBGMT
 
 https://discuss.codechef.com/t/chnbgmt-editorial/
 
@@ -19,29 +19,3 @@ https://www.discourse.org
 https://en.wikipedia.org/wiki/Modular_multiplicative_inverse
 https://en.wikipedia.org/wiki/Lindstr%C3%B6m%E2%80%93Gessel%E2%80%93Viennot_lemma
 
-
-## NOV16
-### SEAPERM3
-https://www.codechef.com/NOV16/SEAPERM3
-
-https://discuss.codechef.com/t/seaperm3-editorial/
-
-
-http://www.codechef.com/download/Solutions/NOV16/Tester/SEAPERM3.cpp
-
-https://www.discourse.org
-
-=================
-
-## DEC16
-### BOUNCE
-https://www.codechef.com/DEC16/BOUNCE
-
-https://discuss.codechef.com/t/bounce-editorial/
-
-
-
-
-
-
-=================
