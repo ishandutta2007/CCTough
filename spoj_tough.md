@@ -60,7 +60,6 @@ https://www.spoj.com/problems/ADAXMAS
 
 https://www.spoj.com/problems/ADDMUL
 
-https://www.spoj.com/problems/ADITYA13
 
 https://www.spoj.com/problems/ADV04C
 
@@ -82,9 +81,7 @@ https://www.spoj.com/problems/AFS3
 
 https://www.spoj.com/problems/AFSK
 
-https://www.spoj.com/problems/AGPREFX
 
-https://www.spoj.com/problems/ALIEN0
 
 https://www.spoj.com/problems/ALIENS1
 
@@ -94,7 +91,6 @@ https://www.spoj.com/problems/AMATH
 
 https://www.spoj.com/problems/AMR11I
 
-https://www.spoj.com/problems/ANDQQ
 
 https://www.spoj.com/problems/ANIL_PRO
 
@@ -124,7 +120,7 @@ https://www.spoj.com/problems/BANDMATR
 
 https://www.spoj.com/problems/BASECONV
 
-https://www.spoj.com/problems/BBAD
+
 
 https://www.spoj.com/problems/BBM
 
@@ -132,29 +128,7 @@ https://www.spoj.com/problems/BEMINE
 
 https://www.spoj.com/problems/BERNULLI
 
-https://www.spoj.com/problems/BFALG
 
-https://www.spoj.com/problems/BFBASE
-
-https://www.spoj.com/problems/BFCC
-
-https://www.spoj.com/problems/BFDIV
-
-https://www.spoj.com/problems/BFGCD
-
-https://www.spoj.com/problems/BFMUL
-
-https://www.spoj.com/problems/BFONP
-
-https://www.spoj.com/problems/BFPRMCYC
-
-https://www.spoj.com/problems/BFREGEX1
-
-https://www.spoj.com/problems/BFROTATE
-
-https://www.spoj.com/problems/BFTAB
-
-https://www.spoj.com/problems/BFTRI
 
 https://www.spoj.com/problems/BGTSTR
 
@@ -162,7 +136,6 @@ https://www.spoj.com/problems/BILLI
 
 https://www.spoj.com/problems/BIO
 
-https://www.spoj.com/problems/BISHOP2
 
 https://www.spoj.com/problems/BLCATS
 
@@ -398,13 +371,11 @@ https://www.spoj.com/problems/FACTOR1
 
 https://www.spoj.com/problems/FAKESCOR
 
-https://www.spoj.com/problems/FAST_BF
 
 https://www.spoj.com/problems/FBWHEELS
 
 https://www.spoj.com/problems/FCTRHELL
 
-https://www.spoj.com/problems/FCTRL5
 
 https://www.spoj.com/problems/FFLOW
 
@@ -418,7 +389,6 @@ https://www.spoj.com/problems/FIBPWSUM
 
 https://www.spoj.com/problems/FINDLR
 
-https://www.spoj.com/problems/FLT
 
 https://www.spoj.com/problems/FMODF
 
@@ -450,7 +420,6 @@ https://www.spoj.com/problems/FUKU11J
 
 https://www.spoj.com/problems/FWFUNC
 
-https://www.spoj.com/problems/GALAXY
 
 https://www.spoj.com/problems/GAMECG
 
@@ -586,11 +555,9 @@ https://www.spoj.com/problems/JMPMNKEY
 
 https://www.spoj.com/problems/JPIX
 
-https://www.spoj.com/problems/JPM2
 
 https://www.spoj.com/problems/KATHTHI2
 
-https://www.spoj.com/problems/KDIV
 
 https://www.spoj.com/problems/KEQ
 
@@ -704,7 +671,6 @@ https://www.spoj.com/problems/MTETRA
 
 https://www.spoj.com/problems/MTRGAME
 
-https://www.spoj.com/problems/MULTIPLY
 
 https://www.spoj.com/problems/MYQ8
 
@@ -839,8 +805,6 @@ https://www.spoj.com/problems/PRIMPOW2
 https://www.spoj.com/problems/PRJAN15C
 
 https://www.spoj.com/problems/PRJAN15E
-
-https://www.spoj.com/problems/PRLCM
 
 https://www.spoj.com/problems/PRLOVE
 
@@ -1016,11 +980,7 @@ https://www.spoj.com/problems/TRECOUNT
 
 https://www.spoj.com/problems/TREEII
 
-https://www.spoj.com/problems/TREEMAZE
-
 https://www.spoj.com/problems/TRI2
-
-https://www.spoj.com/problems/TRIMOD2
 
 https://www.spoj.com/problems/TRKNIGHT
 
@@ -1101,3 +1061,53 @@ https://www.spoj.com/problems/ZIGZAG2
 https://www.spoj.com/problems/ZZPERM
 
 https://www.spoj.com/problems/ZZPERM2
+
+TXT
+
+https://www.spoj.com/problems/TREEMAZE
+
+PYTHON
+
+
+https://www.spoj.com/problems/AGPREFX
+
+https://www.spoj.com/problems/BISHOP2
+
+
+BF
+
+https://www.spoj.com/problems/ADITYA13
+
+https://www.spoj.com/problems/BFALG
+
+https://www.spoj.com/problems/BFBASE
+
+https://www.spoj.com/problems/BFCC
+
+https://www.spoj.com/problems/BFDIV
+
+https://www.spoj.com/problems/BFGCD
+
+https://www.spoj.com/problems/BFMUL
+
+https://www.spoj.com/problems/BFONP
+
+https://www.spoj.com/problems/BFPRMCYC
+
+https://www.spoj.com/problems/BFREGEX1
+
+https://www.spoj.com/problems/BFROTATE
+
+https://www.spoj.com/problems/BFTAB
+
+https://www.spoj.com/problems/BFTRI
+
+https://www.spoj.com/problems/FAST_BF
+
+
+https://www.spoj.com/problems/FCTRL5
+
+https://www.spoj.com/problems/GALAXY
+
+https://www.spoj.com/problems/MULTIPLY
+
