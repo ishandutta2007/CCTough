@@ -1,1104 +1,553 @@
-1. https://www.spoj.com/problems/ABA12B
-2. https://www.spoj.com/problems/ABWORDS
-3. https://www.spoj.com/problems/ACPC10F
-
-
-
-https://www.spoj.com/problems/ACPC10I
-
-https://www.spoj.com/problems/ADABASH 
+- https://www.spoj.com/problems/ABA12B
+- https://www.spoj.com/problems/ABWORDS
+- https://www.spoj.com/problems/ACPC10F
+- https://www.spoj.com/problems/ACPC10I
+- https://www.spoj.com/problems/ADABASH
 - https://www.spoj.com/problems/ADABLOOM
- 
 - https://www.spoj.com/problems/ADACHESS
- 
 - https://www.spoj.com/problems/ADACITRS
- 
 - https://www.spoj.com/problems/ADACROW
- 
 - https://www.spoj.com/problems/ADAFEAR
- 
 - https://www.spoj.com/problems/ADAGAME5
- 
 - https://www.spoj.com/problems/ADAGIFT
- 
 - https://www.spoj.com/problems/ADAGROW
- 
 - https://www.spoj.com/problems/ADAHACK
- 
 - https://www.spoj.com/problems/ADAHLIA
- 
-- https://www.spoj.com/problems/ADAHOSE 
-- https://www.spoj.com/problems/ADAHW 
-- https://www.spoj.com/problems/ADALEMON 
-- https://www.spoj.com/problems/ADAPANEL 
-- https://www.spoj.com/problems/ADAPARTY 
-- https://www.spoj.com/problems/ADAPHONE 
-- https://www.spoj.com/problems/ADAPLNTS 
-- https://www.spoj.com/problems/ADAROADS 
+- https://www.spoj.com/problems/ADAHOSE
+- https://www.spoj.com/problems/ADAHW
+- https://www.spoj.com/problems/ADALEMON
+- https://www.spoj.com/problems/ADAPANEL
+- https://www.spoj.com/problems/ADAPARTY
+- https://www.spoj.com/problems/ADAPHONE
+- https://www.spoj.com/problems/ADAPLNTS
+- https://www.spoj.com/problems/ADAROADS
 - https://www.spoj.com/problems/ADASALE
-
-https://www.spoj.com/problems/ADASEED
-
-https://www.spoj.com/problems/ADASETS
-
-https://www.spoj.com/problems/ADASQR
-
-https://www.spoj.com/problems/ADATOMAT
-
-https://www.spoj.com/problems/ADATOMEL
-
-https://www.spoj.com/problems/ADAXMAS
-
-https://www.spoj.com/problems/ADDMUL
-
-
-https://www.spoj.com/problems/ADV04C
-
-https://www.spoj.com/problems/ADV04I1
-
-https://www.spoj.com/problems/ADV04K
-
-https://www.spoj.com/problems/ADVNTURE
-
-https://www.spoj.com/problems/AE4A
-
-https://www.spoj.com/problems/AE4B
-
-https://www.spoj.com/problems/AE5A1
-
-https://www.spoj.com/problems/AE5A2
-
-https://www.spoj.com/problems/AFS3
-
-https://www.spoj.com/problems/AFSK
-
-
-
-https://www.spoj.com/problems/ALIENS1
-
-https://www.spoj.com/problems/ALMISPY
-
-https://www.spoj.com/problems/AMATH
-
-https://www.spoj.com/problems/AMR11I
-
-
-https://www.spoj.com/problems/ANIL_PRO
-
-https://www.spoj.com/problems/APIO14_A
-
-https://www.spoj.com/problems/APS2
-
-https://www.spoj.com/problems/ARRHUDAI
-
-https://www.spoj.com/problems/ASSEMBLY
-
-https://www.spoj.com/problems/ASSIEVE
-
-https://www.spoj.com/problems/ASUMEXTR
-
-https://www.spoj.com/problems/ASUMHARD
-
-https://www.spoj.com/problems/AVDM
-
-https://www.spoj.com/problems/AVMG1
-
-https://www.spoj.com/problems/AVMG2
-
-https://www.spoj.com/problems/BALANCE1PARA
-
-https://www.spoj.com/problems/BANDMATR
-
-https://www.spoj.com/problems/BASECONV
-
-
-
-https://www.spoj.com/problems/BBM
-
-https://www.spoj.com/problems/BEMINE
-
-https://www.spoj.com/problems/BERNULLI
-
-
-
-https://www.spoj.com/problems/BGTSTR
-
-https://www.spoj.com/problems/BILLI
-
-https://www.spoj.com/problems/BIO
-
-
-https://www.spoj.com/problems/BLCATS
-
-https://www.spoj.com/problems/BLOCK
-
-https://www.spoj.com/problems/BLOCK_D
-
-https://www.spoj.com/problems/BLOPER2
-
-https://www.spoj.com/problems/BLSUMSEQ
-
-https://www.spoj.com/problems/BOI02TRI
-
-https://www.spoj.com/problems/BOI7FEN
-
-https://www.spoj.com/problems/BOILING
-
-https://www.spoj.com/problems/BORING
-
-https://www.spoj.com/problems/BORING2
-
-https://www.spoj.com/problems/BOULDER
-
-https://www.spoj.com/problems/BOXLINGS
-
-https://www.spoj.com/problems/BPORT
-
-https://www.spoj.com/problems/BSPRIME
-
-https://www.spoj.com/problems/BTCODE_B
-
-https://www.spoj.com/problems/BTCODE_E
-
-https://www.spoj.com/problems/BTCODE_I
-
-https://www.spoj.com/problems/BTCODE_J
-
-https://www.spoj.com/problems/CALCULAT
-
-https://www.spoj.com/problems/CANDY4
-
-https://www.spoj.com/problems/CAPPIZZA
-
-https://www.spoj.com/problems/CARD
-
-https://www.spoj.com/problems/CARNIVAL
-
-https://www.spoj.com/problems/CARRALLY
-
-https://www.spoj.com/problems/CATHETEN
-
-https://www.spoj.com/problems/CAVE2
-
-https://www.spoj.com/problems/CCGAMBLE
-
-https://www.spoj.com/problems/CHARCHOC
-
-https://www.spoj.com/problems/CHARLIE
-
-https://www.spoj.com/problems/CHEFFEB
-
-https://www.spoj.com/problems/CHEFJUL
-
-https://www.spoj.com/problems/CHEFMAR
-
-https://www.spoj.com/problems/CIRCLE_H
-
-https://www.spoj.com/problems/CLOCK1
-
-https://www.spoj.com/problems/CLONES
-
-https://www.spoj.com/problems/CLZDOUGH
-
-https://www.spoj.com/problems/CLZSTRNG
-
-https://www.spoj.com/problems/CNTINDX2
-
-https://www.spoj.com/problems/CNTTEAMS
-
-https://www.spoj.com/problems/CODESPTC
-
-https://www.spoj.com/problems/CODESPTG
-
-https://www.spoj.com/problems/CODESPTH
-
-https://www.spoj.com/problems/CODHASH
-
-https://www.spoj.com/problems/CODPABBU
-
-https://www.spoj.com/problems/COLORCAT
-
-https://www.spoj.com/problems/COMFUNC
-
-https://www.spoj.com/problems/COMPLETE
-
-https://www.spoj.com/problems/COMPLEX2
-
-https://www.spoj.com/problems/COOLPROB
-
-https://www.spoj.com/problems/COPSEQ
-
-https://www.spoj.com/problems/COPSEQH
-
-https://www.spoj.com/problems/CQM1TREE
-
-https://www.spoj.com/problems/CRYPTO6
-
-https://www.spoj.com/problems/CRYPTO7
-
-https://www.spoj.com/problems/CT101CC
-
-https://www.spoj.com/problems/CT10R3B
-
-https://www.spoj.com/problems/CT23E
-
-https://www.spoj.com/problems/CTPLUCKY
-
-https://www.spoj.com/problems/CTSTRING
-
-https://www.spoj.com/problems/CURSE
-
-https://www.spoj.com/problems/DANDVIOL
-
-https://www.spoj.com/problems/DARTS
-
-https://www.spoj.com/problems/DCEPC11C
-
-https://www.spoj.com/problems/DCEPC12B
-
-https://www.spoj.com/problems/DCEPC12D
-
-https://www.spoj.com/problems/DCEPC14C
-
-https://www.spoj.com/problems/DCEPC200
-
-https://www.spoj.com/problems/DCEPC203
-
-https://www.spoj.com/problems/DCEPC204
-
-https://www.spoj.com/problems/DCEPC604
-
-https://www.spoj.com/problems/DCEPC703
-
-https://www.spoj.com/problems/DCEPC804
-
-https://www.spoj.com/problems/DCEPC810
-
-https://www.spoj.com/problems/DCEPCA01
-
-https://www.spoj.com/problems/DCEPCA02
-
-https://www.spoj.com/problems/DCEPCA04
-
-https://www.spoj.com/problems/DCEPCA06
-
-https://www.spoj.com/problems/DCEPCA08
-
-https://www.spoj.com/problems/DCOUNT
-
-https://www.spoj.com/problems/DEC123
-
-https://www.spoj.com/problems/DECOY
-
-https://www.spoj.com/problems/DELTACA2
-
-https://www.spoj.com/problems/DELTACAT
-
-https://www.spoj.com/problems/DETER2
-
-https://www.spoj.com/problems/DICE
-
-https://www.spoj.com/problems/DIFFV
-
-https://www.spoj.com/problems/DIGCNT
-
-https://www.spoj.com/problems/DINONUM
-
-https://www.spoj.com/problems/DISGRAPH
-
-https://www.spoj.com/problems/DIVCNT1
-
-https://www.spoj.com/problems/DIVCON
-
-https://www.spoj.com/problems/DIVFACT4
-
-https://www.spoj.com/problems/DIVFIBS2
-
-https://www.spoj.com/problems/DIVISER9
-
-https://www.spoj.com/problems/DIXDOOM
-
-https://www.spoj.com/problems/DOJ1
-
-https://www.spoj.com/problems/DOJ2
-
-https://www.spoj.com/problems/DORTMUND
-
-https://www.spoj.com/problems/DTPOLY
-
-https://www.spoj.com/problems/DTPOLY2
-
-https://www.spoj.com/problems/DUGDUG
-
-https://www.spoj.com/problems/DUKKAR2
-
-https://www.spoj.com/problems/DWRONG
-
-https://www.spoj.com/problems/DYEL
-
-https://www.spoj.com/problems/EGCJPURE
-
-https://www.spoj.com/problems/ELASTIC
-
-https://www.spoj.com/problems/ELEC
-
-https://www.spoj.com/problems/ENUMRTNL
-
-https://www.spoj.com/problems/EVENSEMIP
-
-https://www.spoj.com/problems/EXLAGFIB
-
-https://www.spoj.com/problems/FACTMODP
-
-https://www.spoj.com/problems/FACTMULM
-
-https://www.spoj.com/problems/FACTMULN
-
-https://www.spoj.com/problems/FACTMULO
-
-https://www.spoj.com/problems/FACTMULP
-
-https://www.spoj.com/problems/FACTOR1
-
-https://www.spoj.com/problems/FAKESCOR
-
-
-https://www.spoj.com/problems/FBWHEELS
-
-https://www.spoj.com/problems/FCTRHELL
-
-
-https://www.spoj.com/problems/FFLOW
-
-https://www.spoj.com/problems/FIBFACT
-
-https://www.spoj.com/problems/FIBOSUM2
-
-https://www.spoj.com/problems/FIBPSUM2
-
-https://www.spoj.com/problems/FIBPWSUM
-
-https://www.spoj.com/problems/FINDLR
-
-
-https://www.spoj.com/problems/FMODF
-
-https://www.spoj.com/problems/FN16ASGN
-
-https://www.spoj.com/problems/FN16BASE
-
-https://www.spoj.com/problems/FN16CLK
-
-https://www.spoj.com/problems/FN16QUOT
-
-https://www.spoj.com/problems/FN16SWAP
-
-https://www.spoj.com/problems/FOOTBALL
-
-https://www.spoj.com/problems/FORMAT
-
-https://www.spoj.com/problems/FORMAT1
-
-https://www.spoj.com/problems/FRMT
-
-https://www.spoj.com/problems/FRS2
-
-https://www.spoj.com/problems/FRSKH
-
-https://www.spoj.com/problems/FRSKT
-
-https://www.spoj.com/problems/FUKU11J
-
-https://www.spoj.com/problems/FWFUNC
-
-
-https://www.spoj.com/problems/GAMECG
-
-https://www.spoj.com/problems/GCDMAT
-
-https://www.spoj.com/problems/GCDMAT2
-
-https://www.spoj.com/problems/GCJPURE
-
-https://www.spoj.com/problems/GEMS
-
-https://www.spoj.com/problems/GENETICS
-
-https://www.spoj.com/problems/GF2
-
-https://www.spoj.com/problems/GHALIBC
-
-https://www.spoj.com/problems/GLASS2
-
-https://www.spoj.com/problems/GLGRID
-
-https://www.spoj.com/problems/GNTFNTN
-
-https://www.spoj.com/problems/GOIT
-
-https://www.spoj.com/problems/GOLDG
-
-https://www.spoj.com/problems/GOSTONES
-
-https://www.spoj.com/problems/GRAPH2
-
-https://www.spoj.com/problems/GRIDFLIP
-
-https://www.spoj.com/problems/GRIDPNTS
-
-https://www.spoj.com/problems/GRIDSUM1
-
-https://www.spoj.com/problems/GRIDSUM3
-
-https://www.spoj.com/problems/GUMATH2
-
-https://www.spoj.com/problems/HAALPHA
-
-https://www.spoj.com/problems/HAGU
-
-https://www.spoj.com/problems/HAL9000
-
-https://www.spoj.com/problems/HALD
-
-https://www.spoj.com/problems/HAPPINESS
-
-https://www.spoj.com/problems/HC10000
-
-https://www.spoj.com/problems/HERBICID
-
-https://www.spoj.com/problems/HERE
-
-https://www.spoj.com/problems/HJB
-
-https://www.spoj.com/problems/HK
-
-https://www.spoj.com/problems/HRSIAM
-
-https://www.spoj.com/problems/HS08EQ
-
-https://www.spoj.com/problems/HS09SHIP
-
-https://www.spoj.com/problems/HS10RMSY
-
-https://www.spoj.com/problems/HS12MULT
-
-https://www.spoj.com/problems/HS12PRIM
-
-https://www.spoj.com/problems/ICC
-
-https://www.spoj.com/problems/IITD1
-
-https://www.spoj.com/problems/IITD5
-
-https://www.spoj.com/problems/IITKWPCM
-
-https://www.spoj.com/problems/IITWPC4G
-
-https://www.spoj.com/problems/ILD18ACP
-
-https://www.spoj.com/problems/IMITATE
-
-https://www.spoj.com/problems/INDEPCNT
-
-https://www.spoj.com/problems/INS14F
-
-https://www.spoj.com/problems/INS14G
-
-https://www.spoj.com/problems/INS14H
-
-https://www.spoj.com/problems/INS14J
-
-https://www.spoj.com/problems/INS14L
-
-https://www.spoj.com/problems/INS14M
-
-https://www.spoj.com/problems/INS17M
-
-https://www.spoj.com/problems/INVDIV
-
-https://www.spoj.com/problems/IOPC1200
-
-https://www.spoj.com/problems/IOPC1204
-
-https://www.spoj.com/problems/IOPC1205
-
-https://www.spoj.com/problems/IOPC1206
-
-https://www.spoj.com/problems/IPAD
-
-https://www.spoj.com/problems/IQUERY
-
-https://www.spoj.com/problems/IRECSQRT
-
-https://www.spoj.com/problems/ITERBIT
-
-https://www.spoj.com/problems/ITRIX_D
-
-https://www.spoj.com/problems/JC15B
-
-https://www.spoj.com/problems/JC15D
-
-https://www.spoj.com/problems/JC15F
-
-https://www.spoj.com/problems/JLNT
-
-https://www.spoj.com/problems/JMPMNKEY
-
-https://www.spoj.com/problems/JPIX
-
-
-https://www.spoj.com/problems/KATHTHI2
-
-
-https://www.spoj.com/problems/KEQ
-
-https://www.spoj.com/problems/KHAOTMPL
-
-https://www.spoj.com/problems/KIMO4
-
-https://www.spoj.com/problems/KINDERPC
-
-https://www.spoj.com/problems/KN2
-
-https://www.spoj.com/problems/KNIGHTSG
-
-https://www.spoj.com/problems/KOSPC13B
-
-https://www.spoj.com/problems/KPGRAPHS
-
-https://www.spoj.com/problems/KPOWERSUM
-
-https://www.spoj.com/problems/KPRIMES2
-
-https://www.spoj.com/problems/KSELECT
-
-https://www.spoj.com/problems/LAWRENCE
-
-https://www.spoj.com/problems/LCKYCONT
-
-https://www.spoj.com/problems/LCMP
-
-https://www.spoj.com/problems/LCPC12B
-
-https://www.spoj.com/problems/LCPC12G
-
-https://www.spoj.com/problems/LEAKCONT
-
-https://www.spoj.com/problems/LEXIPOS
-
-https://www.spoj.com/problems/LOCKKEY
-
-https://www.spoj.com/problems/LOGIC2
-
-https://www.spoj.com/problems/LPRIME
-
-https://www.spoj.com/problems/LPRISON
-
-https://www.spoj.com/problems/LUDIC1
-
-https://www.spoj.com/problems/LUDIC2
-
-https://www.spoj.com/problems/MACHMAY
-
-https://www.spoj.com/problems/MADHULK
-
-https://www.spoj.com/problems/MAHJONG
-
-https://www.spoj.com/problems/MAIN75
-
-https://www.spoj.com/problems/MANJFIRE
-
-https://www.spoj.com/problems/MATHII
-
-https://www.spoj.com/problems/MATHS
-
-https://www.spoj.com/problems/MATPROD
-
-https://www.spoj.com/problems/MATRICA
-
-https://www.spoj.com/problems/MATRMUL0
-
-https://www.spoj.com/problems/MAY99_1
-
-https://www.spoj.com/problems/MCIRCLE
-
-https://www.spoj.com/problems/MDT1
-
-https://www.spoj.com/problems/MELAR10
-
-https://www.spoj.com/problems/MEPPERM
-
-https://www.spoj.com/problems/MEXICAN
-
-https://www.spoj.com/problems/MFARM
-
-https://www.spoj.com/problems/MIFF
-
-https://www.spoj.com/problems/MINI
-
-https://www.spoj.com/problems/MOON1
-
-https://www.spoj.com/problems/MOON2
-
-https://www.spoj.com/problems/MOON4
-
-https://www.spoj.com/problems/MOSTYCOD
-
-https://www.spoj.com/problems/MOUNTAIN
-
-https://www.spoj.com/problems/MOVEBOOK
-
-https://www.spoj.com/problems/MOVMRBL
-
-https://www.spoj.com/problems/MPOINT
-
-https://www.spoj.com/problems/MPOLEVAL
-
-https://www.spoj.com/problems/MSE06E
-
-https://www.spoj.com/problems/MSET
-
-https://www.spoj.com/problems/MTETRA
-
-https://www.spoj.com/problems/MTRGAME
-
-
-https://www.spoj.com/problems/MYQ8
-
-https://www.spoj.com/problems/NAJ0001
-
-https://www.spoj.com/problems/NASPRIM
-
-https://www.spoj.com/problems/NECKDEC
-
-https://www.spoj.com/problems/NEO2
-
-https://www.spoj.com/problems/NESPALIN
-
-https://www.spoj.com/problems/NNS
-
-https://www.spoj.com/problems/NPC2015B
-
-https://www.spoj.com/problems/NPC2015E
-
-https://www.spoj.com/problems/NR1
-
-https://www.spoj.com/problems/NTHPRIME
-
-https://www.spoj.com/problems/NUMG
-
-https://www.spoj.com/problems/NUMTRY
-
-https://www.spoj.com/problems/NWERC05
-
-https://www.spoj.com/problems/NWERC10G
-
-https://www.spoj.com/problems/O2JAM
-
-https://www.spoj.com/problems/OKRET
-
-https://www.spoj.com/problems/OTOY1
-
-https://www.spoj.com/problems/PACKRECT
-
-https://www.spoj.com/problems/PAIRDIV2
-
-https://www.spoj.com/problems/PALINDNA
-
-https://www.spoj.com/problems/PALPRIM
-
-https://www.spoj.com/problems/PARCARD1
-
-https://www.spoj.com/problems/PARCARD2
-
-https://www.spoj.com/problems/PARTPLNE
-
-https://www.spoj.com/problems/PAUL2
-
-https://www.spoj.com/problems/PBBN2
-
-https://www.spoj.com/problems/PBOARD
-
-https://www.spoj.com/problems/PCOPTRIP
-
-https://www.spoj.com/problems/PELL2
-
-https://www.spoj.com/problems/PERIOD1
-
-https://www.spoj.com/problems/PERIOD2
-
-https://www.spoj.com/problems/PERIOD3
-
-https://www.spoj.com/problems/PERIOD4
-
-https://www.spoj.com/problems/PERIOD5
-
-https://www.spoj.com/problems/PFACTORS
-
-https://www.spoj.com/problems/PFOLD
-
-https://www.spoj.com/problems/PGCD2
-
-https://www.spoj.com/problems/PIB
-
-https://www.spoj.com/problems/PIBO2
-
-https://www.spoj.com/problems/PIHEX2
-
-https://www.spoj.com/problems/PIHU2
-
-https://www.spoj.com/problems/PISANO
-
-https://www.spoj.com/problems/PITPAIR
-
-https://www.spoj.com/problems/PKD
-
-https://www.spoj.com/problems/PLUS
-
-https://www.spoj.com/problems/POCALC1
-
-https://www.spoj.com/problems/POCALC2
-
-https://www.spoj.com/problems/POLTOPOL
-
-https://www.spoj.com/problems/POLYEQ
-
-https://www.spoj.com/problems/PONY1
-
-https://www.spoj.com/problems/PONY3
-
-https://www.spoj.com/problems/PONY4
-
-https://www.spoj.com/problems/PONY5
-
-https://www.spoj.com/problems/PONY6
-
-https://www.spoj.com/problems/PONY8
-
-https://www.spoj.com/problems/POP1
-
-https://www.spoj.com/problems/POP2
-
-https://www.spoj.com/problems/POP3
-
-https://www.spoj.com/problems/POWTOW
-
-https://www.spoj.com/problems/PRETTY
-
-https://www.spoj.com/problems/PRIME
-
-https://www.spoj.com/problems/PRIMEP
-
-https://www.spoj.com/problems/PRIMEPOW
-
-https://www.spoj.com/problems/PRIMPOW2
-
-https://www.spoj.com/problems/PRJAN15C
-
-https://www.spoj.com/problems/PRJAN15E
-
-https://www.spoj.com/problems/PRLOVE
-
-https://www.spoj.com/problems/PRMFN
-
-https://www.spoj.com/problems/PROGPROG
-
-https://www.spoj.com/problems/PSTR
-
-https://www.spoj.com/problems/PSYCHOT
-
-https://www.spoj.com/problems/PTC
-
-https://www.spoj.com/problems/PTR2
-
-https://www.spoj.com/problems/PTRI
-
-https://www.spoj.com/problems/PUCMM333
-
-https://www.spoj.com/problems/PUCMMT02
-
-https://www.spoj.com/problems/PUZZLE24
-
-https://www.spoj.com/problems/PYTRIP3
-
-https://www.spoj.com/problems/QTGIFT3
-
-https://www.spoj.com/problems/RAINBOW2
-
-https://www.spoj.com/problems/RANJAN05
-
-https://www.spoj.com/problems/RECPWSUM
-
-https://www.spoj.com/problems/RECTMAT
-
-https://www.spoj.com/problems/RESTAURN
-
-https://www.spoj.com/problems/REVFIB
-
-https://www.spoj.com/problems/RLCAT
-
-https://www.spoj.com/problems/RLTHREE
-
-https://www.spoj.com/problems/ROOT
-
-https://www.spoj.com/problems/RS2D
-
-https://www.spoj.com/problems/RSORTING
-
-https://www.spoj.com/problems/SAMER08H
-
-https://www.spoj.com/problems/SANTA2
-
-https://www.spoj.com/problems/SBO
-
-https://www.spoj.com/problems/SBW
-
-https://www.spoj.com/problems/SELECTION
-
-https://www.spoj.com/problems/SELFDESN
-
-https://www.spoj.com/problems/SENSORNT
-
-https://www.spoj.com/problems/SEQ7
-
-https://www.spoj.com/problems/SEQUOIA
-
-https://www.spoj.com/problems/SHAREIT
-
-https://www.spoj.com/problems/SHUFFLE1
-
-https://www.spoj.com/problems/SHUFFLES
-
-https://www.spoj.com/problems/SIGNGAME
-
-https://www.spoj.com/problems/SITB
-
-https://www.spoj.com/problems/SKIING
-
-https://www.spoj.com/problems/SKISLOPE
-
-https://www.spoj.com/problems/SLALOM2
-
-https://www.spoj.com/problems/SNAKYNUM
-
-https://www.spoj.com/problems/SNIM
-
-https://www.spoj.com/problems/SNOWGAME
-
-https://www.spoj.com/problems/SOMESUMS
-
-https://www.spoj.com/problems/SPP2
-
-https://www.spoj.com/problems/SPY2
-
-https://www.spoj.com/problems/SQ2SQ
-
-https://www.spoj.com/problems/SQFFACT
-
-https://www.spoj.com/problems/SQRPERF
-
-https://www.spoj.com/problems/SRTMACH
-
-https://www.spoj.com/problems/SSTRCITS
-
-https://www.spoj.com/problems/STICKS
-
-https://www.spoj.com/problems/STRDIST2
-
-https://www.spoj.com/problems/STRNGSLV
-
-https://www.spoj.com/problems/SUDOGOB
-
-https://www.spoj.com/problems/SUFFIX
-
-https://www.spoj.com/problems/SUMDEC2
-
-https://www.spoj.com/problems/SUMMING
-
-https://www.spoj.com/problems/SUMPRIM2
-
-https://www.spoj.com/problems/SUSY
-
-https://www.spoj.com/problems/SWAP_ESY
-
-https://www.spoj.com/problems/SWAP_HRD
-
-https://www.spoj.com/problems/SWAP_MED
-
-https://www.spoj.com/problems/SWARM
-
-https://www.spoj.com/problems/TANDC
-
-https://www.spoj.com/problems/TAP2013J
-
-https://www.spoj.com/problems/TCNUMFL
-
-https://www.spoj.com/problems/TELECOM
-
-https://www.spoj.com/problems/TENNIS
-
-https://www.spoj.com/problems/TGCD2
-
-https://www.spoj.com/problems/THEPOOL
-
-https://www.spoj.com/problems/TINKUJOB
-
-https://www.spoj.com/problems/TIP2
-
-https://www.spoj.com/problems/TIP3
-
-https://www.spoj.com/problems/TJANDRA2
-
-https://www.spoj.com/problems/TMB
-
-https://www.spoj.com/problems/TOSCORE
-
-https://www.spoj.com/problems/TOUGH
-
-https://www.spoj.com/problems/TPC07
-
-https://www.spoj.com/problems/TPCPALIN
-
-https://www.spoj.com/problems/TPCPPLAR
-
-https://www.spoj.com/problems/TPORT
-
-https://www.spoj.com/problems/TRANSFER
-
-https://www.spoj.com/problems/TRANSJ
-
-https://www.spoj.com/problems/TRECOUNT
-
-https://www.spoj.com/problems/TREEII
-
-https://www.spoj.com/problems/TRI2
-
-https://www.spoj.com/problems/TRKNIGHT
-
-https://www.spoj.com/problems/TWENTYQ
-
-https://www.spoj.com/problems/UCBINTB
-
-https://www.spoj.com/problems/UCBINTD
-
-https://www.spoj.com/problems/UCBINTH
-
-https://www.spoj.com/problems/UCBINTI
-
-https://www.spoj.com/problems/UCBINTJ
-
-https://www.spoj.com/problems/UCF
-
-https://www.spoj.com/problems/UDIVSUM
-
-https://www.spoj.com/problems/ULASER
-
-https://www.spoj.com/problems/ULM02
-
-https://www.spoj.com/problems/UNLOCK
-
-https://www.spoj.com/problems/UVA1
-
-https://www.spoj.com/problems/VAL_GAM4
-
-https://www.spoj.com/problems/VFRIEND2
-
-https://www.spoj.com/problems/VGCD
-
-https://www.spoj.com/problems/VISION
-
-https://www.spoj.com/problems/VPL0_A
-
-https://www.spoj.com/problems/VPL0_C
-
-https://www.spoj.com/problems/VPL0_D
-
-https://www.spoj.com/problems/WALK1
-
-https://www.spoj.com/problems/WIMB
-
-https://www.spoj.com/problems/WONKA1
-
-https://www.spoj.com/problems/WPC5F
-
-https://www.spoj.com/problems/WPC5G
-
-https://www.spoj.com/problems/WPC5H
-
-https://www.spoj.com/problems/WRONG
-
-https://www.spoj.com/problems/WRP
-
-https://www.spoj.com/problems/WTFM
-
-https://www.spoj.com/problems/XC
-
-https://www.spoj.com/problems/XOREQ
-
-https://www.spoj.com/problems/XORRAY
-
-https://www.spoj.com/problems/YASSP
-
-https://www.spoj.com/problems/YOUWIN
-
-https://www.spoj.com/problems/Z124
-
-https://www.spoj.com/problems/Z124H
-
-https://www.spoj.com/problems/ZAMENA
-
-https://www.spoj.com/problems/ZIGZAG2
-
-https://www.spoj.com/problems/ZZPERM
-
-https://www.spoj.com/problems/ZZPERM2
-
-TXT
-
-https://www.spoj.com/problems/TREEMAZE
-
-PYTHON
-
-
-https://www.spoj.com/problems/AGPREFX
-
-https://www.spoj.com/problems/BISHOP2
-
-
-BF
-
-https://www.spoj.com/problems/ADITYA13
-
-https://www.spoj.com/problems/BFALG
-
-https://www.spoj.com/problems/BFBASE
-
-https://www.spoj.com/problems/BFCC
-
-https://www.spoj.com/problems/BFDIV
-
-https://www.spoj.com/problems/BFGCD
-
-https://www.spoj.com/problems/BFMUL
-
-https://www.spoj.com/problems/BFONP
-
-https://www.spoj.com/problems/BFPRMCYC
-
-https://www.spoj.com/problems/BFREGEX1
-
-https://www.spoj.com/problems/BFROTATE
-
-https://www.spoj.com/problems/BFTAB
-
-https://www.spoj.com/problems/BFTRI
-
-https://www.spoj.com/problems/FAST_BF
-
-
-https://www.spoj.com/problems/FCTRL5
-
-https://www.spoj.com/problems/GALAXY
-
-https://www.spoj.com/problems/MULTIPLY
-
+- https://www.spoj.com/problems/ADASEED
+- https://www.spoj.com/problems/ADASETS
+- https://www.spoj.com/problems/ADASQR
+- https://www.spoj.com/problems/ADATOMAT
+- https://www.spoj.com/problems/ADATOMEL
+- https://www.spoj.com/problems/ADAXMAS
+- https://www.spoj.com/problems/ADDMUL
+- https://www.spoj.com/problems/ADV04C
+- https://www.spoj.com/problems/ADV04I1
+- https://www.spoj.com/problems/ADV04K
+- https://www.spoj.com/problems/ADVNTURE
+- https://www.spoj.com/problems/AE4A
+- https://www.spoj.com/problems/AE4B
+- https://www.spoj.com/problems/AE5A1
+- https://www.spoj.com/problems/AE5A2
+- https://www.spoj.com/problems/AFS3
+- https://www.spoj.com/problems/AFSK
+- https://www.spoj.com/problems/ALIENS1
+- https://www.spoj.com/problems/ALMISPY
+- https://www.spoj.com/problems/AMATH
+- https://www.spoj.com/problems/AMR11I
+- https://www.spoj.com/problems/ANIL_PRO
+- https://www.spoj.com/problems/APIO14_A
+- https://www.spoj.com/problems/APS2
+- https://www.spoj.com/problems/ARRHUDAI
+- https://www.spoj.com/problems/ASSEMBLY
+- https://www.spoj.com/problems/ASSIEVE
+- https://www.spoj.com/problems/ASUMEXTR
+- https://www.spoj.com/problems/ASUMHARD
+- https://www.spoj.com/problems/AVDM
+- https://www.spoj.com/problems/AVMG1
+- https://www.spoj.com/problems/AVMG2
+- https://www.spoj.com/problems/BALANCE1PARA
+- https://www.spoj.com/problems/BANDMATR
+- https://www.spoj.com/problems/BASECONV
+- https://www.spoj.com/problems/BBM
+- https://www.spoj.com/problems/BEMINE
+- https://www.spoj.com/problems/BERNULLI
+- https://www.spoj.com/problems/BGTSTR
+- https://www.spoj.com/problems/BILLI
+- https://www.spoj.com/problems/BIO
+- https://www.spoj.com/problems/BLCATS
+- https://www.spoj.com/problems/BLOCK
+- https://www.spoj.com/problems/BLOCK_D
+- https://www.spoj.com/problems/BLOPER2
+- https://www.spoj.com/problems/BLSUMSEQ
+- https://www.spoj.com/problems/BOI02TRI
+- https://www.spoj.com/problems/BOI7FEN
+- https://www.spoj.com/problems/BOILING
+- https://www.spoj.com/problems/BORING
+- https://www.spoj.com/problems/BORING2
+- https://www.spoj.com/problems/BOULDER
+- https://www.spoj.com/problems/BOXLINGS
+- https://www.spoj.com/problems/BPORT
+- https://www.spoj.com/problems/BSPRIME
+- https://www.spoj.com/problems/BTCODE_B
+- https://www.spoj.com/problems/BTCODE_E
+- https://www.spoj.com/problems/BTCODE_I
+- https://www.spoj.com/problems/BTCODE_J
+- https://www.spoj.com/problems/CALCULAT
+- https://www.spoj.com/problems/CANDY4
+- https://www.spoj.com/problems/CAPPIZZA
+- https://www.spoj.com/problems/CARD
+- https://www.spoj.com/problems/CARNIVAL
+- https://www.spoj.com/problems/CARRALLY
+- https://www.spoj.com/problems/CATHETEN
+- https://www.spoj.com/problems/CAVE2
+- https://www.spoj.com/problems/CCGAMBLE
+- https://www.spoj.com/problems/CHARCHOC
+- https://www.spoj.com/problems/CHARLIE
+- https://www.spoj.com/problems/CHEFFEB
+- https://www.spoj.com/problems/CHEFJUL
+- https://www.spoj.com/problems/CHEFMAR
+- https://www.spoj.com/problems/CIRCLE_H
+- https://www.spoj.com/problems/CLOCK1
+- https://www.spoj.com/problems/CLONES
+- https://www.spoj.com/problems/CLZDOUGH
+- https://www.spoj.com/problems/CLZSTRNG
+- https://www.spoj.com/problems/CNTINDX2
+- https://www.spoj.com/problems/CNTTEAMS
+- https://www.spoj.com/problems/CODESPTC
+- https://www.spoj.com/problems/CODESPTG
+- https://www.spoj.com/problems/CODESPTH
+- https://www.spoj.com/problems/CODHASH
+- https://www.spoj.com/problems/CODPABBU
+- https://www.spoj.com/problems/COLORCAT
+- https://www.spoj.com/problems/COMFUNC
+- https://www.spoj.com/problems/COMPLETE
+- https://www.spoj.com/problems/COMPLEX2
+- https://www.spoj.com/problems/COOLPROB
+- https://www.spoj.com/problems/COPSEQ
+- https://www.spoj.com/problems/COPSEQH
+- https://www.spoj.com/problems/CQM1TREE
+- https://www.spoj.com/problems/CRYPTO6
+- https://www.spoj.com/problems/CRYPTO7
+- https://www.spoj.com/problems/CT101CC
+- https://www.spoj.com/problems/CT10R3B
+- https://www.spoj.com/problems/CT23E
+- https://www.spoj.com/problems/CTPLUCKY
+- https://www.spoj.com/problems/CTSTRING
+- https://www.spoj.com/problems/CURSE
+- https://www.spoj.com/problems/DANDVIOL
+- https://www.spoj.com/problems/DARTS
+- https://www.spoj.com/problems/DCEPC11C
+- https://www.spoj.com/problems/DCEPC12B
+- https://www.spoj.com/problems/DCEPC12D
+- https://www.spoj.com/problems/DCEPC14C
+- https://www.spoj.com/problems/DCEPC200
+- https://www.spoj.com/problems/DCEPC203
+- https://www.spoj.com/problems/DCEPC204
+- https://www.spoj.com/problems/DCEPC604
+- https://www.spoj.com/problems/DCEPC703
+- https://www.spoj.com/problems/DCEPC804
+- https://www.spoj.com/problems/DCEPC810
+- https://www.spoj.com/problems/DCEPCA01
+- https://www.spoj.com/problems/DCEPCA02
+- https://www.spoj.com/problems/DCEPCA04
+- https://www.spoj.com/problems/DCEPCA06
+- https://www.spoj.com/problems/DCEPCA08
+- https://www.spoj.com/problems/DCOUNT
+- https://www.spoj.com/problems/DEC123
+- https://www.spoj.com/problems/DECOY
+- https://www.spoj.com/problems/DELTACA2
+- https://www.spoj.com/problems/DELTACAT
+- https://www.spoj.com/problems/DETER2
+- https://www.spoj.com/problems/DICE
+- https://www.spoj.com/problems/DIFFV
+- https://www.spoj.com/problems/DIGCNT
+- https://www.spoj.com/problems/DINONUM
+- https://www.spoj.com/problems/DISGRAPH
+- https://www.spoj.com/problems/DIVCNT1
+- https://www.spoj.com/problems/DIVCON
+- https://www.spoj.com/problems/DIVFACT4
+- https://www.spoj.com/problems/DIVFIBS2
+- https://www.spoj.com/problems/DIVISER9
+- https://www.spoj.com/problems/DIXDOOM
+- https://www.spoj.com/problems/DOJ1
+- https://www.spoj.com/problems/DOJ2
+- https://www.spoj.com/problems/DORTMUND
+- https://www.spoj.com/problems/DTPOLY
+- https://www.spoj.com/problems/DTPOLY2
+- https://www.spoj.com/problems/DUGDUG
+- https://www.spoj.com/problems/DUKKAR2
+- https://www.spoj.com/problems/DWRONG
+- https://www.spoj.com/problems/DYEL
+- https://www.spoj.com/problems/EGCJPURE
+- https://www.spoj.com/problems/ELASTIC
+- https://www.spoj.com/problems/ELEC
+- https://www.spoj.com/problems/ENUMRTNL
+- https://www.spoj.com/problems/EVENSEMIP
+- https://www.spoj.com/problems/EXLAGFIB
+- https://www.spoj.com/problems/FACTMODP
+- https://www.spoj.com/problems/FACTMULM
+- https://www.spoj.com/problems/FACTMULN
+- https://www.spoj.com/problems/FACTMULO
+- https://www.spoj.com/problems/FACTMULP
+- https://www.spoj.com/problems/FACTOR1
+- https://www.spoj.com/problems/FAKESCOR
+- https://www.spoj.com/problems/FBWHEELS
+- https://www.spoj.com/problems/FCTRHELL
+- https://www.spoj.com/problems/FFLOW
+- https://www.spoj.com/problems/FIBFACT
+- https://www.spoj.com/problems/FIBOSUM2
+- https://www.spoj.com/problems/FIBPSUM2
+- https://www.spoj.com/problems/FIBPWSUM
+- https://www.spoj.com/problems/FINDLR
+- https://www.spoj.com/problems/FMODF
+- https://www.spoj.com/problems/FN16ASGN
+- https://www.spoj.com/problems/FN16BASE
+- https://www.spoj.com/problems/FN16CLK
+- https://www.spoj.com/problems/FN16QUOT
+- https://www.spoj.com/problems/FN16SWAP
+- https://www.spoj.com/problems/FOOTBALL
+- https://www.spoj.com/problems/FORMAT
+- https://www.spoj.com/problems/FORMAT1
+- https://www.spoj.com/problems/FRMT
+- https://www.spoj.com/problems/FRS2
+- https://www.spoj.com/problems/FRSKH
+- https://www.spoj.com/problems/FRSKT
+- https://www.spoj.com/problems/FUKU11J
+- https://www.spoj.com/problems/FWFUNC
+- https://www.spoj.com/problems/GAMECG
+- https://www.spoj.com/problems/GCDMAT
+- https://www.spoj.com/problems/GCDMAT2
+- https://www.spoj.com/problems/GCJPURE
+- https://www.spoj.com/problems/GEMS
+- https://www.spoj.com/problems/GENETICS
+- https://www.spoj.com/problems/GF2
+- https://www.spoj.com/problems/GHALIBC
+- https://www.spoj.com/problems/GLASS2
+- https://www.spoj.com/problems/GLGRID
+- https://www.spoj.com/problems/GNTFNTN
+- https://www.spoj.com/problems/GOIT
+- https://www.spoj.com/problems/GOLDG
+- https://www.spoj.com/problems/GOSTONES
+- https://www.spoj.com/problems/GRAPH2
+- https://www.spoj.com/problems/GRIDFLIP
+- https://www.spoj.com/problems/GRIDPNTS
+- https://www.spoj.com/problems/GRIDSUM1
+- https://www.spoj.com/problems/GRIDSUM3
+- https://www.spoj.com/problems/GUMATH2
+- https://www.spoj.com/problems/HAALPHA
+- https://www.spoj.com/problems/HAGU
+- https://www.spoj.com/problems/HAL9000
+- https://www.spoj.com/problems/HALD
+- https://www.spoj.com/problems/HAPPINESS
+- https://www.spoj.com/problems/HC10000
+- https://www.spoj.com/problems/HERBICID
+- https://www.spoj.com/problems/HERE
+- https://www.spoj.com/problems/HJB
+- https://www.spoj.com/problems/HK
+- https://www.spoj.com/problems/HRSIAM
+- https://www.spoj.com/problems/HS08EQ
+- https://www.spoj.com/problems/HS09SHIP
+- https://www.spoj.com/problems/HS10RMSY
+- https://www.spoj.com/problems/HS12MULT
+- https://www.spoj.com/problems/HS12PRIM
+- https://www.spoj.com/problems/ICC
+- https://www.spoj.com/problems/IITD1
+- https://www.spoj.com/problems/IITD5
+- https://www.spoj.com/problems/IITKWPCM
+- https://www.spoj.com/problems/IITWPC4G
+- https://www.spoj.com/problems/ILD18ACP
+- https://www.spoj.com/problems/IMITATE
+- https://www.spoj.com/problems/INDEPCNT
+- https://www.spoj.com/problems/INS14F
+- https://www.spoj.com/problems/INS14G
+- https://www.spoj.com/problems/INS14H
+- https://www.spoj.com/problems/INS14J
+- https://www.spoj.com/problems/INS14L
+- https://www.spoj.com/problems/INS14M
+- https://www.spoj.com/problems/INS17M
+- https://www.spoj.com/problems/INVDIV
+- https://www.spoj.com/problems/IOPC1200
+- https://www.spoj.com/problems/IOPC1204
+- https://www.spoj.com/problems/IOPC1205
+- https://www.spoj.com/problems/IOPC1206
+- https://www.spoj.com/problems/IPAD
+- https://www.spoj.com/problems/IQUERY
+- https://www.spoj.com/problems/IRECSQRT
+- https://www.spoj.com/problems/ITERBIT
+- https://www.spoj.com/problems/ITRIX_D
+- https://www.spoj.com/problems/JC15B
+- https://www.spoj.com/problems/JC15D
+- https://www.spoj.com/problems/JC15F
+- https://www.spoj.com/problems/JLNT
+- https://www.spoj.com/problems/JMPMNKEY
+- https://www.spoj.com/problems/JPIX
+- https://www.spoj.com/problems/KATHTHI2
+- https://www.spoj.com/problems/KEQ
+- https://www.spoj.com/problems/KHAOTMPL
+- https://www.spoj.com/problems/KIMO4
+- https://www.spoj.com/problems/KINDERPC
+- https://www.spoj.com/problems/KN2
+- https://www.spoj.com/problems/KNIGHTSG
+- https://www.spoj.com/problems/KOSPC13B
+- https://www.spoj.com/problems/KPGRAPHS
+- https://www.spoj.com/problems/KPOWERSUM
+- https://www.spoj.com/problems/KPRIMES2
+- https://www.spoj.com/problems/KSELECT
+- https://www.spoj.com/problems/LAWRENCE
+- https://www.spoj.com/problems/LCKYCONT
+- https://www.spoj.com/problems/LCMP
+- https://www.spoj.com/problems/LCPC12B
+- https://www.spoj.com/problems/LCPC12G
+- https://www.spoj.com/problems/LEAKCONT
+- https://www.spoj.com/problems/LEXIPOS
+- https://www.spoj.com/problems/LOCKKEY
+- https://www.spoj.com/problems/LOGIC2
+- https://www.spoj.com/problems/LPRIME
+- https://www.spoj.com/problems/LPRISON
+- https://www.spoj.com/problems/LUDIC1
+- https://www.spoj.com/problems/LUDIC2
+- https://www.spoj.com/problems/MACHMAY
+- https://www.spoj.com/problems/MADHULK
+- https://www.spoj.com/problems/MAHJONG
+- https://www.spoj.com/problems/MAIN75
+- https://www.spoj.com/problems/MANJFIRE
+- https://www.spoj.com/problems/MATHII
+- https://www.spoj.com/problems/MATHS
+- https://www.spoj.com/problems/MATPROD
+- https://www.spoj.com/problems/MATRICA
+- https://www.spoj.com/problems/MATRMUL0
+- https://www.spoj.com/problems/MAY99_1
+- https://www.spoj.com/problems/MCIRCLE
+- https://www.spoj.com/problems/MDT1
+- https://www.spoj.com/problems/MELAR10
+- https://www.spoj.com/problems/MEPPERM
+- https://www.spoj.com/problems/MEXICAN
+- https://www.spoj.com/problems/MFARM
+- https://www.spoj.com/problems/MIFF
+- https://www.spoj.com/problems/MINI
+- https://www.spoj.com/problems/MOON1
+- https://www.spoj.com/problems/MOON2
+- https://www.spoj.com/problems/MOON4
+- https://www.spoj.com/problems/MOSTYCOD
+- https://www.spoj.com/problems/MOUNTAIN
+- https://www.spoj.com/problems/MOVEBOOK
+- https://www.spoj.com/problems/MOVMRBL
+- https://www.spoj.com/problems/MPOINT
+- https://www.spoj.com/problems/MPOLEVAL
+- https://www.spoj.com/problems/MSE06E
+- https://www.spoj.com/problems/MSET
+- https://www.spoj.com/problems/MTETRA
+- https://www.spoj.com/problems/MTRGAME
+- https://www.spoj.com/problems/MYQ8
+- https://www.spoj.com/problems/NAJ0001
+- https://www.spoj.com/problems/NASPRIM
+- https://www.spoj.com/problems/NECKDEC
+- https://www.spoj.com/problems/NEO2
+- https://www.spoj.com/problems/NESPALIN
+- https://www.spoj.com/problems/NNS
+- https://www.spoj.com/problems/NPC2015B
+- https://www.spoj.com/problems/NPC2015E
+- https://www.spoj.com/problems/NR1
+- https://www.spoj.com/problems/NTHPRIME
+- https://www.spoj.com/problems/NUMG
+- https://www.spoj.com/problems/NUMTRY
+- https://www.spoj.com/problems/NWERC05
+- https://www.spoj.com/problems/NWERC10G
+- https://www.spoj.com/problems/O2JAM
+- https://www.spoj.com/problems/OKRET
+- https://www.spoj.com/problems/OTOY1
+- https://www.spoj.com/problems/PACKRECT
+- https://www.spoj.com/problems/PAIRDIV2
+- https://www.spoj.com/problems/PALINDNA
+- https://www.spoj.com/problems/PALPRIM
+- https://www.spoj.com/problems/PARCARD1
+- https://www.spoj.com/problems/PARCARD2
+- https://www.spoj.com/problems/PARTPLNE
+- https://www.spoj.com/problems/PAUL2
+- https://www.spoj.com/problems/PBBN2
+- https://www.spoj.com/problems/PBOARD
+- https://www.spoj.com/problems/PCOPTRIP
+- https://www.spoj.com/problems/PELL2
+- https://www.spoj.com/problems/PERIOD1
+- https://www.spoj.com/problems/PERIOD2
+- https://www.spoj.com/problems/PERIOD3
+- https://www.spoj.com/problems/PERIOD4
+- https://www.spoj.com/problems/PERIOD5
+- https://www.spoj.com/problems/PFACTORS
+- https://www.spoj.com/problems/PFOLD
+- https://www.spoj.com/problems/PGCD2
+- https://www.spoj.com/problems/PIB
+- https://www.spoj.com/problems/PIBO2
+- https://www.spoj.com/problems/PIHEX2
+- https://www.spoj.com/problems/PIHU2
+- https://www.spoj.com/problems/PISANO
+- https://www.spoj.com/problems/PITPAIR
+- https://www.spoj.com/problems/PKD
+- https://www.spoj.com/problems/PLUS
+- https://www.spoj.com/problems/POCALC1
+- https://www.spoj.com/problems/POCALC2
+- https://www.spoj.com/problems/POLTOPOL
+- https://www.spoj.com/problems/POLYEQ
+- https://www.spoj.com/problems/PONY1
+- https://www.spoj.com/problems/PONY3
+- https://www.spoj.com/problems/PONY4
+- https://www.spoj.com/problems/PONY5
+- https://www.spoj.com/problems/PONY6
+- https://www.spoj.com/problems/PONY8
+- https://www.spoj.com/problems/POP1
+- https://www.spoj.com/problems/POP2
+- https://www.spoj.com/problems/POP3
+- https://www.spoj.com/problems/POWTOW
+- https://www.spoj.com/problems/PRETTY
+- https://www.spoj.com/problems/PRIME
+- https://www.spoj.com/problems/PRIMEP
+- https://www.spoj.com/problems/PRIMEPOW
+- https://www.spoj.com/problems/PRIMPOW2
+- https://www.spoj.com/problems/PRJAN15C
+- https://www.spoj.com/problems/PRJAN15E
+- https://www.spoj.com/problems/PRLOVE
+- https://www.spoj.com/problems/PRMFN
+- https://www.spoj.com/problems/PROGPROG
+- https://www.spoj.com/problems/PSTR
+- https://www.spoj.com/problems/PSYCHOT
+- https://www.spoj.com/problems/PTC
+- https://www.spoj.com/problems/PTR2
+- https://www.spoj.com/problems/PTRI
+- https://www.spoj.com/problems/PUCMM333
+- https://www.spoj.com/problems/PUCMMT02
+- https://www.spoj.com/problems/PUZZLE24
+- https://www.spoj.com/problems/PYTRIP3
+- https://www.spoj.com/problems/QTGIFT3
+- https://www.spoj.com/problems/RAINBOW2
+- https://www.spoj.com/problems/RANJAN05
+- https://www.spoj.com/problems/RECPWSUM
+- https://www.spoj.com/problems/RECTMAT
+- https://www.spoj.com/problems/RESTAURN
+- https://www.spoj.com/problems/REVFIB
+- https://www.spoj.com/problems/RLCAT
+- https://www.spoj.com/problems/RLTHREE
+- https://www.spoj.com/problems/ROOT
+- https://www.spoj.com/problems/RS2D
+- https://www.spoj.com/problems/RSORTING
+- https://www.spoj.com/problems/SAMER08H
+- https://www.spoj.com/problems/SANTA2
+- https://www.spoj.com/problems/SBO
+- https://www.spoj.com/problems/SBW
+- https://www.spoj.com/problems/SELECTION
+- https://www.spoj.com/problems/SELFDESN
+- https://www.spoj.com/problems/SENSORNT
+- https://www.spoj.com/problems/SEQ7
+- https://www.spoj.com/problems/SEQUOIA
+- https://www.spoj.com/problems/SHAREIT
+- https://www.spoj.com/problems/SHUFFLE1
+- https://www.spoj.com/problems/SHUFFLES
+- https://www.spoj.com/problems/SIGNGAME
+- https://www.spoj.com/problems/SITB
+- https://www.spoj.com/problems/SKIING
+- https://www.spoj.com/problems/SKISLOPE
+- https://www.spoj.com/problems/SLALOM2
+- https://www.spoj.com/problems/SNAKYNUM
+- https://www.spoj.com/problems/SNIM
+- https://www.spoj.com/problems/SNOWGAME
+- https://www.spoj.com/problems/SOMESUMS
+- https://www.spoj.com/problems/SPP2
+- https://www.spoj.com/problems/SPY2
+- https://www.spoj.com/problems/SQ2SQ
+- https://www.spoj.com/problems/SQFFACT
+- https://www.spoj.com/problems/SQRPERF
+- https://www.spoj.com/problems/SRTMACH
+- https://www.spoj.com/problems/SSTRCITS
+- https://www.spoj.com/problems/STICKS
+- https://www.spoj.com/problems/STRDIST2
+- https://www.spoj.com/problems/STRNGSLV
+- https://www.spoj.com/problems/SUDOGOB
+- https://www.spoj.com/problems/SUFFIX
+- https://www.spoj.com/problems/SUMDEC2
+- https://www.spoj.com/problems/SUMMING
+- https://www.spoj.com/problems/SUMPRIM2
+- https://www.spoj.com/problems/SUSY
+- https://www.spoj.com/problems/SWAP_ESY
+- https://www.spoj.com/problems/SWAP_HRD
+- https://www.spoj.com/problems/SWAP_MED
+- https://www.spoj.com/problems/SWARM
+- https://www.spoj.com/problems/TANDC
+- https://www.spoj.com/problems/TAP2013J
+- https://www.spoj.com/problems/TCNUMFL
+- https://www.spoj.com/problems/TELECOM
+- https://www.spoj.com/problems/TENNIS
+- https://www.spoj.com/problems/TGCD2
+- https://www.spoj.com/problems/THEPOOL
+- https://www.spoj.com/problems/TINKUJOB
+- https://www.spoj.com/problems/TIP2
+- https://www.spoj.com/problems/TIP3
+- https://www.spoj.com/problems/TJANDRA2
+- https://www.spoj.com/problems/TMB
+- https://www.spoj.com/problems/TOSCORE
+- https://www.spoj.com/problems/TOUGH
+- https://www.spoj.com/problems/TPC07
+- https://www.spoj.com/problems/TPCPALIN
+- https://www.spoj.com/problems/TPCPPLAR
+- https://www.spoj.com/problems/TPORT
+- https://www.spoj.com/problems/TRANSFER
+- https://www.spoj.com/problems/TRANSJ
+- https://www.spoj.com/problems/TRECOUNT
+- https://www.spoj.com/problems/TREEII
+- https://www.spoj.com/problems/TRI2
+- https://www.spoj.com/problems/TRKNIGHT
+- https://www.spoj.com/problems/TWENTYQ
+- https://www.spoj.com/problems/UCBINTB
+- https://www.spoj.com/problems/UCBINTD
+- https://www.spoj.com/problems/UCBINTH
+- https://www.spoj.com/problems/UCBINTI
+- https://www.spoj.com/problems/UCBINTJ
+- https://www.spoj.com/problems/UCF
+- https://www.spoj.com/problems/UDIVSUM
+- https://www.spoj.com/problems/ULASER
+- https://www.spoj.com/problems/ULM02
+- https://www.spoj.com/problems/UNLOCK
+- https://www.spoj.com/problems/UVA1
+- https://www.spoj.com/problems/VAL_GAM4
+- https://www.spoj.com/problems/VFRIEND2
+- https://www.spoj.com/problems/VGCD
+- https://www.spoj.com/problems/VISION
+- https://www.spoj.com/problems/VPL0_A
+- https://www.spoj.com/problems/VPL0_C
+- https://www.spoj.com/problems/VPL0_D
+- https://www.spoj.com/problems/WALK1
+- https://www.spoj.com/problems/WIMB
+- https://www.spoj.com/problems/WONKA1
+- https://www.spoj.com/problems/WPC5F
+- https://www.spoj.com/problems/WPC5G
+- https://www.spoj.com/problems/WPC5H
+- https://www.spoj.com/problems/WRONG
+- https://www.spoj.com/problems/WRP
+- https://www.spoj.com/problems/WTFM
+- https://www.spoj.com/problems/XC
+- https://www.spoj.com/problems/XOREQ
+- https://www.spoj.com/problems/XORRAY
+- https://www.spoj.com/problems/YASSP
+- https://www.spoj.com/problems/YOUWIN
+- https://www.spoj.com/problems/Z124
+- https://www.spoj.com/problems/Z124H
+- https://www.spoj.com/problems/ZAMENA
+- https://www.spoj.com/problems/ZIGZAG2
+- https://www.spoj.com/problems/ZZPERM
+- https://www.spoj.com/problems/ZZPERM2
+
+
+## TXT
+- https://www.spoj.com/problems/TREEMAZE
+
+
+## PYTHON
+- https://www.spoj.com/problems/AGPREFX
+- https://www.spoj.com/problems/BISHOP2
+
+
+## BF
+- https://www.spoj.com/problems/ADITYA13
+- https://www.spoj.com/problems/BFALG
+- https://www.spoj.com/problems/BFBASE
+- https://www.spoj.com/problems/BFCC
+- https://www.spoj.com/problems/BFDIV
+- https://www.spoj.com/problems/BFGCD
+- https://www.spoj.com/problems/BFMUL
+- https://www.spoj.com/problems/BFONP
+- https://www.spoj.com/problems/BFPRMCYC
+- https://www.spoj.com/problems/BFREGEX1
+- https://www.spoj.com/problems/BFROTATE
+- https://www.spoj.com/problems/BFTAB
+- https://www.spoj.com/problems/BFTRI
+- https://www.spoj.com/problems/FAST_BF
+- https://www.spoj.com/problems/FCTRL5
+- https://www.spoj.com/problems/GALAXY
+- https://www.spoj.com/problems/MULTIPLY 
