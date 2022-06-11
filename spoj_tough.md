@@ -1,11 +1,7 @@
-```scala
-https://www.spoj.com/problems/ABA12B
+1. https://www.spoj.com/problems/ABA12B
+2. https://www.spoj.com/problems/ABWORDS
+3. https://www.spoj.com/problems/ACPC10F
 
-https://www.spoj.com/problems/ABWORDS
-
-https://www.spoj.com/problems/ACPC10F
-
-```
 
 
 https://www.spoj.com/problems/ACPC10I
