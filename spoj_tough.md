@@ -9,26 +9,26 @@ https://www.spoj.com/problems/ACPC10I
 https://www.spoj.com/problems/ADABASH
 
 https://www.spoj.com/problems/ADABLOOM
-
-https://www.spoj.com/problems/ADACHESS
-
-https://www.spoj.com/problems/ADACITRS
-
-https://www.spoj.com/problems/ADACROW
-
-https://www.spoj.com/problems/ADAFEAR
-
-https://www.spoj.com/problems/ADAGAME5
-
-https://www.spoj.com/problems/ADAGIFT
-
-https://www.spoj.com/problems/ADAGROW
-
-https://www.spoj.com/problems/ADAHACK
-
-https://www.spoj.com/problems/ADAHLIA
-
-https://www.spoj.com/problems/ADAHOSE
+ 
+- https://www.spoj.com/problems/ADACHESS
+ 
+- https://www.spoj.com/problems/ADACITRS
+ 
+- https://www.spoj.com/problems/ADACROW
+ 
+- https://www.spoj.com/problems/ADAFEAR
+ 
+- https://www.spoj.com/problems/ADAGAME5
+ 
+- https://www.spoj.com/problems/ADAGIFT
+ 
+- https://www.spoj.com/problems/ADAGROW
+ 
+- https://www.spoj.com/problems/ADAHACK
+ 
+- https://www.spoj.com/problems/ADAHLIA
+ 
+- https://www.spoj.com/problems/ADAHOSE
 
 https://www.spoj.com/problems/ADAHW
 
