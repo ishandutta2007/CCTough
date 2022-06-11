@@ -6,9 +6,8 @@
 
 https://www.spoj.com/problems/ACPC10I
 
-https://www.spoj.com/problems/ADABASH
-
-https://www.spoj.com/problems/ADABLOOM
+https://www.spoj.com/problems/ADABASH 
+- https://www.spoj.com/problems/ADABLOOM
  
 - https://www.spoj.com/problems/ADACHESS
  
@@ -28,23 +27,15 @@ https://www.spoj.com/problems/ADABLOOM
  
 - https://www.spoj.com/problems/ADAHLIA
  
-- https://www.spoj.com/problems/ADAHOSE
-
-https://www.spoj.com/problems/ADAHW
-
-https://www.spoj.com/problems/ADALEMON
-
-https://www.spoj.com/problems/ADAPANEL
-
-https://www.spoj.com/problems/ADAPARTY
-
-https://www.spoj.com/problems/ADAPHONE
-
-https://www.spoj.com/problems/ADAPLNTS
-
-https://www.spoj.com/problems/ADAROADS
-
-https://www.spoj.com/problems/ADASALE
+- https://www.spoj.com/problems/ADAHOSE 
+- https://www.spoj.com/problems/ADAHW 
+- https://www.spoj.com/problems/ADALEMON 
+- https://www.spoj.com/problems/ADAPANEL 
+- https://www.spoj.com/problems/ADAPARTY 
+- https://www.spoj.com/problems/ADAPHONE 
+- https://www.spoj.com/problems/ADAPLNTS 
+- https://www.spoj.com/problems/ADAROADS 
+- https://www.spoj.com/problems/ADASALE
 
 https://www.spoj.com/problems/ADASEED
 
