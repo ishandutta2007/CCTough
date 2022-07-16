@@ -8,7 +8,7 @@ from functools import partial
 from google.auth.transport.requests import Request
 from google_auth_oauthlib.flow import InstalledAppFlow
 from googleapiclient.discovery import build
-from http.client import HTTPException
+from - http.client import - httPException
 from os import listdir
 from os.path import isfile, join
 from pathlib import Path
@@ -52,7 +52,7 @@ INFINITY = 100000000
 
 def get_toughest_problem_code(driver, monthyear="APRIL16"):
     try:
-        url = "https://www.codechef.com/{}".format(monthyear)
+        url = "- https://www.codechef.com/{}".format(monthyear)
         driver.get(url)
         html = driver.page_source
         soup = bs.BeautifulSoup(html)
@@ -87,7 +87,7 @@ def get_editorial_links(code):
     sol_urls = []
     ext_urls = []
     try:
-        url = "https://discuss.codechef.com/t/{}-editorial/".format(code.lower())
+        url = "- https://discuss.codechef.com/t/{}-editorial/".format(code.lower())
         driver.get(url)
         html = driver.page_source
         soup = bs.BeautifulSoup(html)
@@ -101,7 +101,7 @@ def get_editorial_links(code):
             if "download/Solutions" in url:
                 sol_urls.append(url)
             elif ("external-redirect" in url) or (
-                "http" in url and "codechef" not in url
+                "- http" in url and "codechef" not in url
             ):
                 ext_urls.append(
                     url.replace("/external-redirect/", "").replace("?url=", "")
@@ -116,7 +116,7 @@ def get_editorial_links_for(code):
     sol_urls = []
     ext_urls = []
     try:
-        url = "https://discuss.codechef.com/t/editorial-for-{}/".format(code.lower())
+        url = "- https://discuss.codechef.com/t/editorial-for-{}/".format(code.lower())
         driver.get(url)
         html = driver.page_source
         soup = bs.BeautifulSoup(html)
@@ -127,9 +127,9 @@ def get_editorial_links_for(code):
             if url is None:
                 continue
             print("url", url)
-            if "http" in url and "codechef" in url:
+            if "- http" in url and "codechef" in url:
                 continue
-            if "http" in url and "discourse" in url:
+            if "- http" in url and "discourse" in url:
                 continue
             if "download/Solutions" in url:
                 sol_urls.append(url)
@@ -207,10 +207,10 @@ for year in years:
             pp.pprint(sol_urls)
             pp.pprint(ext_urls)
 
-            problem_url = "https://www.codechef.com/{}/problems/{}".format(
+            problem_url = "- https://www.codechef.com/{}/problems/{}".format(
                 monthyear, tpc
             )
-            editorial_url = "https://discuss.codechef.com/t/{}-editorial/".format(
+            editorial_url = "- https://discuss.codechef.com/t/{}-editorial/".format(
                 tpc.lower()
             )
 
