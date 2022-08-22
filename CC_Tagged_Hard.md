@@ -10,7 +10,7 @@
 |MUFFINS2|Frosting Cupcakes|16|9999|[COOK09](https://www.codechef.com/COOK09)|Convex Hull|https://discuss.codechef.com/t/muffins2-editorial/1036|
 |ACMKANPA|Problem With Strings|18|NA|
 |DIGITS2|Product of Digits Again|18|9999|[COOK09](https://www.codechef.com/COOK09)|Djikstra|https://discuss.codechef.com/t/digits2-editorial/1037|
-|INC0XOR|Increase to Zero|18|3949|[LTIME109](https://www.codechef.com/LTIME109)|
+|INC0XOR|Increase to Zero|18|3949|[LTIME109](https://www.codechef.com/LTIME109)|Bitwise XOR|https://discuss.codechef.com/t/inc0xor-editorial/101683|
 |MULHANOI|Again Multi-Peg Tower of Hanoi|19|NA|
 |CHEFTRI4|Chef and Triangles|19|9999|[COOK77](https://www.codechef.com/COOK77)|
 |ADJLEAF|Adjacent leaves|19|3301|[COOK88](https://www.codechef.com/COOK88)|
