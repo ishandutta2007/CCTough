@@ -84,7 +84,7 @@
 |DDART|D-Dart|35|3011|[NOV19](https://www.codechef.com/NOV19)|
 |POLICE|Police and Thieves|36|NA|[LTIME74](https://www.codechef.com/LTIME74)|
 |SINSUMQ|Sines Sum Queries|36|2702|[COOK11](https://www.codechef.com/COOK11/)|
-|CMPVIRS|Computer Virus|36|3368|CMEL2018](https://www.codechef.com/CMEL2018/)|
+|CMPVIRS|Computer Virus|36|3368|[CMEL2018](https://www.codechef.com/CMEL2018/)|
 |HARMONY|Harmonious Decorating|37|2453|[MAY11](https://www.codechef.com/MAY11/)|
 |CHN10|Animesh does not gift Malvika on her birthday|37|NA|
 |BINOMSUM|Day Schedule|37|3260|[NOV17](https://www.codechef.com/NOV17)|
@@ -100,15 +100,11 @@
 |TROOT|Roots of a Tree|38|2860|[LTIME12](https://www.codechef.com/LTIME12/)|
 |M2|Motorbike Racing|38|2598|[FEB10](https://www.codechef.com/FEB10)|
 |REVERSED|The Reversed World|38|2302|[APRIL10](https://www.codechef.com/APRIL10)|
-|](https://www.codechef.com/)|
-|](https://www.codechef.com/)|
-|](https://www.codechef.com/)|
-|](https://www.codechef.com/)|
 |BOUNCE|Advanced Cooking Machine|39|3144|[DEC16](https://www.codechef.com/)|
 |DISCAREA|Black Discs|39|NA|
 |GRIDGAME|Game on a Grid|39|3284|[COOK29](https://www.codechef.com/)|
 |KOL16D|Men and Horses|40|NA|
-|CNTL|Counting is life|40|9999|CMEL2018](https://www.codechef.com/)|
+|CNTL|Counting is life|40|9999|[CMEL2018](https://www.codechef.com/)|
 |RIVERLND|Riverland|40|NA|
 |JAKKU|Rebel rescue|40|3154|[FEB17](https://www.codechef.com/)|
 |ZUBPALK|G - Palace of King|40|NA|
@@ -154,7 +150,6 @@
 |STRQUER|Strange Queries|51|3047|[LTIME54](https://www.codechef.com/)|
 |SEQCOUNT|How many sequences|51|2780|[LTIME10](https://www.codechef.com/)|
 |A7|A Christmas Pizza Puzzle|51|2159|[APRIL09](https://www.codechef.com/)|
-|](https://www.codechef.com/)|
 |CHEFPC|Polygon & Circles|52|2934|[MARCH16](https://www.codechef.com/)|
 |GEOXD|Easy Geo xD|52|3053|[JULY20](https://www.codechef.com/)|
 |CHEFKC|Chef and Cut|52|3014|[SEPT16](https://www.codechef.com/)|
@@ -164,7 +159,8 @@
 |MINDEG|Minimum of Degrees|53|NA|
 |EXPTREES|Expected Spanning Trees|54|2965|[JULY20](https://www.codechef.com/)|
 |F4|Se7en|54|2041|[SEP09](https://www.codechef.com/)|
-|LELUCKYN|Little Elephant and Lucky Segment|54|2851|[COOK28|[COOK82E|Binary Tree|54|3086|[COOK82](https://www.codechef.com/)|
+|LELUCKYN|Little Elephant and Lucky Segment|54|2851|[COOK28|
+|COOK82E|Binary Tree|54|3086|[COOK82](https://www.codechef.com/)|
 |WESTAND|Chef and Direction|55|2869|[DEC17](https://www.codechef.com/)|
 |BTMNTREE|Batman and Tree|55|2973|[COOK95](https://www.codechef.com/)|
 |MAXCIR|Max Circumference|56|3000|[OCT12](https://www.codechef.com/)|
@@ -190,7 +186,7 @@
 |ABSDIFFS|Absolute Difference Sum|62|NA|
 |MIXFLVOR|Mixing flavors|62|2923|[COOK79](https://www.codechef.com/)|
 |SSPLD|S Semi-palindromic|62|2750|[APRIL18](https://www.codechef.com/)|
-|CLTNGL|Triangles in a Grid|62|3203|COLE2018](https://www.codechef.com/)|
+|CLTNGL|Triangles in a Grid|62|3203|[COLE2018](https://www.codechef.com/)|
 |FCTR|Factorize|62|2672|[SEPT18](https://www.codechef.com/)|
 |GENIND|Generalized Independent Sets|62|2376|[APRIL11](https://www.codechef.com/)|
 |XORTREEH|Chef and Horcrux|62|3019|[OCT17](https://www.codechef.com/)|
@@ -204,8 +200,7 @@
 |JOSEPHUS|Josephus Again|64|NA|
 |TRIPWAYS|A Leisurely Journey|65|2983|[APRIL20](https://www.codechef.com/)|
 |KILLER|Painting Tree|66|2970|[MAY17](https://www.codechef.com/)|
-|](https://www.codechef.com/)|
-||TSUM2|Sum on Tree|66|2814|[LTIME60](https://www.codechef.com/)|
+|TSUM2|Sum on Tree|66|2814|[LTIME60](https://www.codechef.com/)|
 |PSTONES|Precious Stones|66|2775|[AUG20](https://www.codechef.com/)|
 |PALINDEQ|Palindromic Equivalence|67|2958|[DEC20](https://www.codechef.com/)|
 |H3|Congruent triangles|67|2094|[OCT09](https://www.codechef.com/)|
@@ -305,8 +300,7 @@
 |CONNECT|Find a special connected block|97|2949|[APRIL12](https://www.codechef.com/)|
 |DISTRING|Distinct Rows in Submatrices|97|2607|[OCT18](https://www.codechef.com/)|
 |AMR15E|Avantika|97|NA|
-|](https://www.codechef.com/)|
-||EXPREP|Expected Repetitions|98|3155|[JULY20](https://www.codechef.com/)|
+|EXPREP|Expected Repetitions|98|3155|[JULY20](https://www.codechef.com/)|
 |CHEFTRE|Chef and Tree|99|3054|[AUG16](https://www.codechef.com/)|
 |FSFSFS|Factorial to Square|100|3399|[COOK63](https://www.codechef.com/)|
 |NPLANAR|Not even planar|100|3032|[COOK68](https://www.codechef.com/)|
@@ -356,7 +350,7 @@
 |NPIN|Needles and Pins|123|2920|[JULY13](https://www.codechef.com/)|
 |JERRYTOM|Tom and Jerry|124|2527|[JULY18](https://www.codechef.com/)|
 |DISTNUM|Simple Queries|126|3202|[AUG15](https://www.codechef.com/)|
-||MGCH3D|3D Queries|127|2878|[SEPT15](https://www.codechef.com/)|
+|MGCH3D|3D Queries|127|2878|[SEPT15](https://www.codechef.com/)|
 |ROC|Room Corner|131|2755|[FEB13](https://www.codechef.com/)|
 |ROOTMST|Rooted Minimum Spanning Tree|132|2642|[OCT20](https://www.codechef.com/)|
 |COOLNUM|Cool Numbers|133|2713|[JUNE12](https://www.codechef.com/)|
