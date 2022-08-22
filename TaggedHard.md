@@ -1,5 +1,5 @@
 | Code   |      Title      |  Submitted |  Difficulty |  ContestId | Category | Editorial | 
-|----------|:-------------:|------:|-------:|-------:|-------:|-------:](https://www.codechef.com/)|
+|----------|:-------------:|------:|-------:|-------:|-------:|-------:
 |LALALANT|The Fools Who Dream|2|NA|
 |AMPUZZLE|Sliding Puzzle|2|NA|
 |SQRECT|Square in rectangles|3|NA|
