@@ -50,7 +50,7 @@
 |KOL15E|Weird Paths in a tree|27|NA|
 |STRSUM|Pairwise String Sums|28|NA|
 |REACHRIG|Reaching the Rig|28|NA|
-||CLUE|Get a Clue|28|2442|[OCT10](https://www.codechef.com/OCT10)|
+|CLUE|Get a Clue|28|2442|[OCT10](https://www.codechef.com/OCT10)|
 |OWCAFILE|OWCA Files|28|NA|[JAN20](https://www.codechef.com/JAN20)|
 |YASEQ|Yet Another Sequence|29|9999|[COOK14](https://www.codechef.com/COOK14)|
 |BIGTREE|Big Search Trees|29|NA|
