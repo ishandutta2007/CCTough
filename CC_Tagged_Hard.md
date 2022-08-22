@@ -7,7 +7,7 @@
 |PSLISCNT|Prefix Suffix LIS Counting|13|9999|[SNCKEL21](https://www.codechef.com/SNCKEL21)||https://discuss.codechef.com/t/psliscnt-editorial/96827|
 |XORDEGREE|XOR Degree Graph|14|9999|[COOK140](https://www.codechef.com/COOK140)||https://discuss.codechef.com/t/xordegree-editorial/100770|
 |SNCK02|Powerful Strongholds|16|NA|
-|MUFFINS2|Frosting Cupcakes|16|9999|[COOK09](https://www.codechef.com/COOK09)|
+|MUFFINS2|Frosting Cupcakes|16|9999|[COOK09](https://www.codechef.com/COOK09)|Convex Hull|https://discuss.codechef.com/t/muffins2-editorial/1036|
 |ACMKANPA|Problem With Strings|18|NA|
 |DIGITS2|Product of Digits Again|18|9999|[COOK09](https://www.codechef.com/COOK09)|
 |INC0XOR|Increase to Zero|18|3949|[LTIME109](https://www.codechef.com/LTIME109)|
