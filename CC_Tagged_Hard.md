@@ -25,7 +25,7 @@
 |D7|Alien Clock|22|2468|[JUNE09](https://www.codechef.com/JUNE09/)|
 |ACMKANPE|Algebra Express|23|NA|
 |CIELWALK|Ciel and Random Walk|23|3137|[COOK17](https://www.codechef.com/COOK17)|Graph, Gauss Elimination|https://discuss.codechef.com/t/cielwalk-editorial/946|
-|TUZTRN|Puppy and Triangles|23|3481|[COOK67](https://www.codechef.com/COOK67/)|
+|TUZTRN|Puppy and Triangles|23|3481|[COOK67](https://www.codechef.com/COOK67/)|Geometry|https://discuss.codechef.com/t/tuztrn-editorial/12207|
 |HYPER|Hypertrees|23|2837|[DEC11](https://www.codechef.com/DEC11)|
 |BLUECHIP|Escape the Blue Chips|23|9999|[COOK127](https://www.codechef.com/COOK127)|
 |IMPROVE|Improve the Permutation|23|3034|[LTIME44](https://www.codechef.com/LTIME44)|
