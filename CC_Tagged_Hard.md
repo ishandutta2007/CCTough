@@ -13,7 +13,7 @@
 |INC0XOR|Increase to Zero|18|3949|[LTIME109](https://www.codechef.com/LTIME109)|Bitwise XOR|https://discuss.codechef.com/t/inc0xor-editorial/101683|
 |MULHANOI|Again Multi-Peg Tower of Hanoi|19|NA|
 |CHEFTRI4|Chef and Triangles|19|9999|[COOK77](https://www.codechef.com/COOK77)|Geometry|https://discuss.codechef.com/t/cheftri4-editorial/13695|
-|ADJLEAF|Adjacent leaves|19|3301|[COOK88](https://www.codechef.com/COOK88)|
+|ADJLEAF|Adjacent leaves|19|3301|[COOK88](https://www.codechef.com/COOK88)|DP on Tree|https://discuss.codechef.com/t/adjleaf-editorial/17451|
 |EFLIP|Chef and Edge Flipping|20|3468|[LTIME89](https://www.codechef.com/LTIME89)|
 |POST|Post Office|21|2659|[OCT10](https://www.codechef.com/OCT10)|
 |ADAFARM|Ada Farm|21|9999|[COOK99](https://www.codechef.com/COOK99)|
