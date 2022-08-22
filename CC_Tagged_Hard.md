@@ -24,7 +24,7 @@
 |LMATRIX3|Make It Zero 3|22|3298|[APRIL14](https://www.codechef.com/APRIL14/)|Gauss Elimination|https://discuss.codechef.com/t/lmatrix3-editorial/5175|
 |D7|Alien Clock|22|2468|[JUNE09](https://www.codechef.com/JUNE09/)|
 |ACMKANPE|Algebra Express|23|NA|
-|CIELWALK|Ciel and Random Walk|23|3137|[COOK17](https://www.codechef.com/COOK17)|
+|CIELWALK|Ciel and Random Walk|23|3137|[COOK17](https://www.codechef.com/COOK17)|Graph, Gauss Elimination|https://discuss.codechef.com/t/cielwalk-editorial/946|
 |TUZTRN|Puppy and Triangles|23|3481|[COOK67](https://www.codechef.com/COOK67/)|
 |HYPER|Hypertrees|23|2837|[DEC11](https://www.codechef.com/DEC11)|
 |BLUECHIP|Escape the Blue Chips|23|9999|[COOK127](https://www.codechef.com/COOK127)|
