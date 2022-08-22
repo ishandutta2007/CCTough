@@ -3,7 +3,7 @@
 |LALALANT|The Fools Who Dream|2|NA|
 |AMPUZZLE|Sliding Puzzle|2|NA|
 |SQRECT|Square in rectangles|3|NA|
-|CATCHMEGRID|Catch Me If You Can|8|9999|[COOK141](https://www.codechef.com/COOK141)|
+|CATCHMEGRID|Catch Me If You Can|8|9999|[COOK141](https://www.codechef.com/COOK141)||https://discuss.codechef.com/t/catchmegrid-editorial/100900|
 |PSLISCNT|Prefix Suffix LIS Counting|13|9999|[SNCKEL21](https://www.codechef.com/SNCKEL21)|
 |XORDEGREE|XOR Degree Graph|14|9999|[COOK140](https://www.codechef.com/COOK140)|
 |SNCK02|Powerful Strongholds|16|NA|
