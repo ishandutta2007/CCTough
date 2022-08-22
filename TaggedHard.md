@@ -159,7 +159,7 @@
 |MINDEG|Minimum of Degrees|53|NA|
 |EXPTREES|Expected Spanning Trees|54|2965|[JULY20](https://www.codechef.com/JULY20)|
 |F4|Se7en|54|2041|[SEP09](https://www.codechef.com/SEP09)|
-|LELUCKYN|Little Elephant and Lucky Segment|54|2851|[COOK28|
+|LELUCKYN|Little Elephant and Lucky Segment|54|2851|[COOK28](https://www.codechef.com/COOK28)|
 |COOK82E|Binary Tree|54|3086|[COOK82](https://www.codechef.com/COOK82)|
 |WESTAND|Chef and Direction|55|2869|[DEC17](https://www.codechef.com/DEC17)|
 |BTMNTREE|Batman and Tree|55|2973|[COOK95](https://www.codechef.com/COOK95)|
