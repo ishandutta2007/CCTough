@@ -20,7 +20,7 @@
 |SUMRECT|Sum of Areas|21|3530|[LTIME99](https://www.codechef.com/LTIME99)|Generating Function, 2 variable recurrence realtion|https://discuss.codechef.com/t/sumrect-editorial/94037|
 |CHEFPIC|Picnic with Chef|21|3160|[COOK94](https://www.codechef.com/COOK94/)|Sweepline, BIT|https://discuss.codechef.com/t/chefpic-editorial/18667|
 |AVDWAST|Avoid Wasting|22|9999|[COOK30](https://www.codechef.com/COOK30/)|
-|CIELKARA|Ciel and Karaoke|22|9999|[COOK30](https://www.codechef.com/COOK30/)|
+|CIELKARA|Ciel and Karaoke|22|9999|[COOK30](https://www.codechef.com/COOK30/)|Ternary Search|https://discuss.codechef.com/t/cielkara-editorial/1413|
 |LMATRIX3|Make It Zero 3|22|3298|[APRIL14](https://www.codechef.com/APRIL14/)|
 |D7|Alien Clock|22|2468|[JUNE09](https://www.codechef.com/JUNE09/)|
 |ACMKANPE|Algebra Express|23|NA|
