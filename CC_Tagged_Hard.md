@@ -16,9 +16,9 @@
 |ADJLEAF|Adjacent leaves|19|3301|[COOK88](https://www.codechef.com/COOK88)|DP on Tree|https://discuss.codechef.com/t/adjleaf-editorial/17451|
 |EFLIP|Chef and Edge Flipping|20|3468|[LTIME89](https://www.codechef.com/LTIME89)||https://discuss.codechef.com/t/eflip-editorial/80551|
 |POST|Post Office|21|2659|[OCT10](https://www.codechef.com/OCT10)|Lucus Theorem, NTT|https://discuss.codechef.com/t/post-editorial/1101|
-|ADAFARM|Ada Farm|21|9999|[COOK99](https://www.codechef.com/COOK99)|
-|SUMRECT|Sum of Areas|21|3530|[LTIME99](https://www.codechef.com/LTIME99)|
-|CHEFPIC|Picnic with Chef|21|3160|[COOK94](https://www.codechef.com/COOK94/)|
+|ADAFARM|Ada Farm|21|9999|[COOK99](https://www.codechef.com/COOK99)|Centroid Decomposition, Disjoint-Sets, Geometry|https://discuss.codechef.com/t/adafarm-editorial/20654|
+|SUMRECT|Sum of Areas|21|3530|[LTIME99](https://www.codechef.com/LTIME99)|Generating Function, 2 variable recerrence realtion|https://discuss.codechef.com/t/sumrect-editorial/94037|
+|CHEFPIC|Picnic with Chef|21|3160|[COOK94](https://www.codechef.com/COOK94/)|Sweepline, BIT|https://discuss.codechef.com/t/chefpic-editorial/18667|
 |AVDWAST|Avoid Wasting|22|9999|[COOK30](https://www.codechef.com/COOK30/)|
 |CIELKARA|Ciel and Karaoke|22|9999|[COOK30](https://www.codechef.com/COOK30/)|
 |LMATRIX3|Make It Zero 3|22|3298|[APRIL14](https://www.codechef.com/APRIL14/)|
