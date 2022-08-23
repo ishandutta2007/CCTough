@@ -474,5 +474,5 @@
 |ORDERS|Ordering the Soldiers|1620|NA|
 |CHEFARMY|Chefland Army|1822|3603|[JAN20](https://www.codechef.com/JAN20)|
 |ICPC16F|Chef and Bipartite Graphs|1881|NA|
-|PRIMEDST|Prime Distance On Tree|1920|2508|[AUG13](https://www.codechef.com/AUG13)|
+|PRIMEDST|Prime Distance On Tree|1920|2508|[AUG13](https://www.codechef.com/AUG13)|FFT,Graph Theory|https://discuss.codechef.com/t/primedst-editorial/2905|
 |TESTGEN|Test Generation|2165|2997|[DEC19](https://www.codechef.com/DEC19)|
