@@ -8,7 +8,7 @@ from functools import partial
 from google.auth.transport.requests import Request
 from google_auth_oauthlib.flow import InstalledAppFlow
 from googleapiclient.discovery import build
-from - http.client import - httPException
+from http.client import httPException
 from os import listdir
 from os.path import isfile, join
 from pathlib import Path
@@ -48,6 +48,8 @@ import traceback
 import urllib.request
 
 INFINITY = 100000000
+
+cc_folder = "CC"
 
 
 def get_toughest_problem_code(driver, monthyear="APRIL16"):
@@ -191,7 +193,7 @@ months = [
 
 for year in years:
     if not os.path.exists(year + ".md"):
-        with open(year + ".md", "w"):
+        with open(cc_folder + "/" + year + ".md", "w"):
             pass
     for month in months:
         driver = webdriver.Firefox()
@@ -214,33 +216,33 @@ for year in years:
                 tpc.lower()
             )
 
-            with open(year + ".md", "a") as fw:
+            with open(cc_folder + "/" + year + ".md", "a") as fw:
                 fw.write("\n")
 
-            with open(year + ".md", "a") as fw:
+            with open(cc_folder + "/" + year + ".md", "a") as fw:
                 fw.write("## " + monthyear + "\n")
 
-            with open(year + ".md", "a") as fw:
+            with open(cc_folder + "/" + year + ".md", "a") as fw:
                 fw.write("### " + tpc + "\n")
 
-            with open(year + ".md", "a") as fw:
+            with open(cc_folder + "/" + year + ".md", "a") as fw:
                 fw.write(problem_url + "\n")
                 fw.write("\n")
 
-            with open(year + ".md", "a") as fw:
+            with open(cc_folder + "/" + year + ".md", "a") as fw:
                 fw.write(editorial_url + "\n")
                 fw.write("\n")
                 fw.write("\n")
 
             try:
-                with open(year + ".md", "a") as fw:
+                with open(cc_folder + "/" + year + ".md", "a") as fw:
                     fw.write("\n".join(sol_urls) + "\n")
                     fw.write("\n")
             except Exception as e:
                 pass
 
             try:
-                with open(year + ".md", "a") as fw:
+                with open(cc_folder + "/" + year + ".md", "a") as fw:
                     fw.write("\n".join(ext_urls) + "\n")
                     fw.write("\n")
             except Exception as e:
