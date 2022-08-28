@@ -27518,3 +27518,36 @@ JavaScript warning: - https://cdnjs.cloudflare.com/ajax/libs/jquery/1.9.1/jquery
 
 ###!!! [Child][PContentChild] Error: RunMessage(msgname=P- httpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
 
+1661694418041	geckodriver	INFO	Listening on 127.0.0.1:57383
+1661696853112	geckodriver	INFO	Listening on 127.0.0.1:57852
+1661696860390	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofiledlrj82"
+1661696889115	Marionette	INFO	Marionette enabled
+1661696890766	Marionette	INFO	Listening on port 57867
+Read port: 57867
+Read port: 57867
+Read port: 57867
+Read port: 57867
+Read port: 57867
+Read port: 57867
+Read port: 57867
+Read port: 57867
+Read port: 57867
+Read port: 57867
+Read port: 57867
+Read port: 57867
+Read port: 57867
+Read port: 57867
+Read port: 57867
+Read port: 57867
+Read port: 57867
+Read port: 57867
+Read port: 57867
+Read port: 57867
+Read port: 57867
+Read port: 57867
+Read port: 57867
+Read port: 57867
+Read port: 57867
+Read port: 57867
+Read port: 57867
+Read port: 57867

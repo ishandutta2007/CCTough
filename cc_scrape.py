@@ -8,7 +8,7 @@ from functools import partial
 from google.auth.transport.requests import Request
 from google_auth_oauthlib.flow import InstalledAppFlow
 from googleapiclient.discovery import build
-from http.client import httPException
+from http.client import HTTPException
 from os import listdir
 from os.path import isfile, join
 from pathlib import Path
