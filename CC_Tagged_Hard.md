@@ -41,7 +41,7 @@
 |CKSCHOOL|Preferred Cooking Schools|26|2762|[COOK10](https://www.codechef.com/COOK10)|
 |DPOWPERM|D-Power Permutations|26|2862|[COOK11](https://www.codechef.com/COOK11)|
 |REARRAN|Rearrangement|26|3310|[COOK27](https://www.codechef.com/COOK27)|
-|SEQTOWER|Adding Up Sequences of Towers|26|3173|[COOK60](https://www.codechef.com/COOK60)|
+|SEQTOWER|Adding Up Sequences of Towers|26|3173|[COOK60](https://www.codechef.com/COOK60)|CRT,Modular inverse|https://discuss.codechef.com/t/seqtower-editorial/11268|
 |SIMPPOLY|A Simple Polygon|26|NA|
 |WINDOW|Chef attic window|27|2762|[JAN11](https://www.codechef.com/JAN11/)|
 |AMR16A|Tim and BSTs|27|NA|
