@@ -36,7 +36,7 @@
 |ZUBSPOIL|H - Unpredictable Array|24|NA|
 |A8|The Bytelandian Union|25|2717|[JUNE09](https://www.codechef.com/JUNE09)|
 |LAMQUGAM|Lame Queen Game|25|2741|[COOK15](https://www.codechef.com/COOK15)|Game Theory+binary indexed tree |https://discuss.codechef.com/t/lamqugam-editorial/965|
-|CHEFTRAF|Traffic in Chefland|25|2705|[LTIME52](https://www.codechef.com/LTIME52)|
+|CHEFTRAF|Traffic in Chefland|25|2705|[LTIME52](https://www.codechef.com/LTIME52)|centroid decomposition, Fenwick trees, preorder sorting, tree compression,lowest common ancestor|https://discuss.codechef.com/t/cheftraf-editorial/16813|
 |EXPCOMM|Exponentiation Commutativity|26|2813|[COOK08](https://www.codechef.com/COOK08/)|
 |CKSCHOOL|Preferred Cooking Schools|26|2762|[COOK10](https://www.codechef.com/COOK10)|
 |DPOWPERM|D-Power Permutations|26|2862|[COOK11](https://www.codechef.com/COOK11)|
