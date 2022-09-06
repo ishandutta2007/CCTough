@@ -16,6 +16,7 @@ from ppadb.client import Client as AdbClient
 from random import choice
 from robot.api import logger
 from robot.libraries.BuiltIn import BuiltIn
+
 # from RPA.Browser.Selenium import Selenium
 # from RPA.Desktop import Desktop
 # from RPA.Desktop.keywords import keyword
@@ -146,7 +147,7 @@ atcoder_folder = "atcoder"
 # READMEstr = "README.md"
 
 
-code="abc266"
+code = "abc266"
 driver = webdriver.Firefox()
 url = "https://atcoder.jp/contests/{}".format(code.lower())
 driver.get(url)
