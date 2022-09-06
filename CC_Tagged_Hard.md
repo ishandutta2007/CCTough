@@ -461,7 +461,7 @@
 |DGCD|Dynamic GCD|498|2518|[JULY12](https://www.codechef.com/JULY12)|
 |GNUM|Game of Numbers|503|2521|[JULY14](https://www.codechef.com/JULY14)|
 |FARASA|Furik and Rubik and Sub Array|579|2384|[JULY13](https://www.codechef.com/JULY13)|
-|CARDSHUF|Card Shuffle|607|2115|[JAN12](https://www.codechef.com/JAN12)|
+|CARDSHUF|Card Shuffle|607|2115|[JAN12](https://www.codechef.com/JAN12)|splay trees,Lazy reverse|https://discuss.codechef.com/t/cardshuf-editorial/926|
 |SEALCM|Sereja and LCM|625|2376|[JAN15](https://www.codechef.com/JAN15)|Bitmask DP|https://discuss.codechef.com/t/sealcm-editorial/9099|
 |DOMSOL|Domino Solitaire|679|NA|
 |RGY|Chef Thanos Wants Perfect Balance|680|2826|[AUG20](https://www.codechef.com/AUG20)|
