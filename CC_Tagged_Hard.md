@@ -51,7 +51,7 @@
 |STRSUM|Pairwise String Sums|28|NA|
 |REACHRIG|Reaching the Rig|28|NA|
 |CLUE|Get a Clue|28|2442|[OCT10](https://www.codechef.com/OCT10)|
-|OWCAFILE|OWCA Files|28|NA|[JAN20](https://www.codechef.com/JAN20)|
+|OWCAFILE|OWCA Files|28|NA|[JAN20](https://www.codechef.com/JAN20)|Modular Exponentiation and Fermat’s Little Theorem , FFT (All Possible Sums) , General concepts of Modular set - like Generator of the Modular Set and Primitive Root|https://discuss.codechef.com/t/owcafile-editorial/54905|
 |YASEQ|Yet Another Sequence|29|9999|[COOK14](https://www.codechef.com/COOK14)|
 |BIGTREE|Big Search Trees|29|NA|
 |BSG|Binary String Game|29|4015|[LTIME108](https://www.codechef.com/LTIME108)|
