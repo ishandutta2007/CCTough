@@ -43,7 +43,7 @@
 |REARRAN|Rearrangement|26|3310|[COOK27](https://www.codechef.com/COOK27)|
 |SEQTOWER|Adding Up Sequences of Towers|26|3173|[COOK60](https://www.codechef.com/COOK60)|CRT,Modular inverse|https://discuss.codechef.com/t/seqtower-editorial/11268|
 |SIMPPOLY|A Simple Polygon|26|NA|
-|WINDOW|Chef attic window|27|2762|[JAN11](https://www.codechef.com/JAN11/)|
+|WINDOW|Chef attic window|27|2762|[JAN11](https://www.codechef.com/JAN11/)|Generalized Euclid|https://discuss.codechef.com/t/window-editorial/1069|
 |AMR16A|Tim and BSTs|27|NA|
 |DFSGRID|Chef and The Recursive Algorithm|27|3176|[COOK37](https://www.codechef.com/COOK37/)|
 |ADJLEAF2|Adjacent Leaves|27|NA|
