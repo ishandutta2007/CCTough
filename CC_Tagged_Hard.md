@@ -466,7 +466,7 @@
 |DOMSOL|Domino Solitaire|679|NA|
 |RGY|Chef Thanos Wants Perfect Balance|680|2826|[AUG20](https://www.codechef.com/AUG20)|
 |PERMUTE|Just Some Permutations 3|709|2083|[JUNE13](https://www.codechef.com/JUNE13)|
-|LYRC|Music & Lyrics|747|2360|[AUG13](https://www.codechef.com/AUG13)|
+|LYRC|Music & Lyrics|747|2360|[AUG13](https://www.codechef.com/AUG13)|String Matching, Aho-Corasick 9, Dynamic Programming|https://discuss.codechef.com/t/lyrc-editorial/2893|
 |XRQRS|Xor Queries|851|2513|[JAN15](https://www.codechef.com/JAN15)|
 |FNCS|Chef and Churu|976|2549|[NOV14](https://www.codechef.com/NOV14)|
 |GERALD07|Chef and Graph Queries|1169|2535|[MARCH14](https://www.codechef.com/MARCH14)|
